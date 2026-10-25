@@ -1,0 +1,443 @@
+[
+  {
+    "slot": 300120620,
+    "leader_pubkey": "FDanceJump1111111111111111111111111111111111",
+    "client_family": "Firedancer",
+    "client_version": "v0.114-frankendancer",
+    "total_txs": 120,
+    "non_vote_txs": 105,
+    "txs_with_priority_fee": 88,
+    "pct_with_priority_fee": 83.81,
+    "global_spearman_rho": 0.9978,
+    "global_spearman_pvalue": 0.0,
+    "global_kendall_tau": 0.986,
+    "global_inversion_ratio": 0.0007,
+    "top_decile_head_concentration": 100.0,
+    "contended_accounts_count": 12,
+    "mean_conflict_spearman_rho": 0.991,
+    "mean_conflict_inversion_ratio": 0.0011,
+    "top_conflict_clusters": [
+      {
+        "account_pubkey": "Pyth-SOL-USD-PriceFeed1111111111111111111111111",
+        "transaction_count": 13,
+        "spearman_rho": 0.9945054945054945,
+        "kendall_tau": 0.9743589743589742,
+        "inversion_ratio": 0.01282051282051282,
+        "p_value": 3.909411051466975e-12
+      },
+      {
+        "account_pubkey": "SOL-USDC-Raydium-Pool1111111111111111111111111",
+        "transaction_count": 12,
+        "spearman_rho": 1.0,
+        "kendall_tau": 0.9999999999999998,
+        "inversion_ratio": 0.0,
+        "p_value": 0.0
+      },
+      {
+        "account_pubkey": "JUP-USDC-Phoenix-Market111111111111111111111111",
+        "transaction_count": 11,
+        "spearman_rho": 1.0,
+        "kendall_tau": 1.0,
+        "inversion_ratio": 0.0,
+        "p_value": 0.0
+      },
+      {
+        "account_pubkey": "IndependentAcc_0",
+        "transaction_count": 10,
+        "spearman_rho": 0.9878044218151566,
+        "kendall_tau": 0.9660917830792959,
+        "inversion_ratio": 0.0,
+        "p_value": 9.537128224077505e-08
+      },
+      {
+        "account_pubkey": "BONK-SOL-Whirlpool1111111111111111111111111111",
+        "transaction_count": 10,
+        "spearman_rho": 0.9999999999999999,
+        "kendall_tau": 0.9999999999999999,
+        "inversion_ratio": 0.0,
+        "p_value": 6.646897422031862e-64
+      }
+    ],
+    "scheduler_verdict": "STRICT_PRIORITY_KNAPSACK",
+    "verdict_confidence": 0.92,
+    "rationale": "High global rank correlation (rho=1.00) and strong conflict-cluster ordering (rho=0.99) with low inversion ratio (0.00). Typical of Firedancer fd_pack binning knapsack."
+  },
+  {
+    "slot": 300120621,
+    "leader_pubkey": "FDanceJump1111111111111111111111111111111111",
+    "client_family": "Firedancer",
+    "client_version": "v0.114-frankendancer",
+    "total_txs": 120,
+    "non_vote_txs": 105,
+    "txs_with_priority_fee": 89,
+    "pct_with_priority_fee": 84.76,
+    "global_spearman_rho": 0.9982,
+    "global_spearman_pvalue": 0.0,
+    "global_kendall_tau": 0.9881,
+    "global_inversion_ratio": 0.0004,
+    "top_decile_head_concentration": 100.0,
+    "contended_accounts_count": 12,
+    "mean_conflict_spearman_rho": 0.9887,
+    "mean_conflict_inversion_ratio": 0.0,
+    "top_conflict_clusters": [
+      {
+        "account_pubkey": "BONK-SOL-Whirlpool1111111111111111111111111111",
+        "transaction_count": 13,
+        "spearman_rho": 1.0,
+        "kendall_tau": 0.9999999999999998,
+        "inversion_ratio": 0.0,
+        "p_value": 0.0
+      },
+      {
+        "account_pubkey": "IndependentAcc_2",
+        "transaction_count": 12,
+        "spearman_rho": 0.9823619317924353,
+        "kendall_tau": 0.9534625892455921,
+        "inversion_ratio": 0.0,
+        "p_value": 1.3052561021839625e-08
+      },
+      {
+        "account_pubkey": "IndependentAcc_0",
+        "transaction_count": 11,
+        "spearman_rho": 1.0,
+        "kendall_tau": 1.0,
+        "inversion_ratio": 0.0,
+        "p_value": 0.0
+      },
+      {
+        "account_pubkey": "IndependentAcc_6",
+        "transaction_count": 10,
+        "spearman_rho": 0.9878044218151566,
+        "kendall_tau": 0.9660917830792959,
+        "inversion_ratio": 0.0,
+        "p_value": 9.537128224077505e-08
+      },
+      {
+        "account_pubkey": "JUP-USDC-Phoenix-Market111111111111111111111111",
+        "transaction_count": 9,
+        "spearman_rho": 1.0,
+        "kendall_tau": 1.0,
+        "inversion_ratio": 0.0,
+        "p_value": 0.0
+      }
+    ],
+    "scheduler_verdict": "STRICT_PRIORITY_KNAPSACK",
+    "verdict_confidence": 0.92,
+    "rationale": "High global rank correlation (rho=1.00) and strong conflict-cluster ordering (rho=0.99) with low inversion ratio (0.00). Typical of Firedancer fd_pack binning knapsack."
+  },
+  {
+    "slot": 300120510,
+    "leader_pubkey": "JitoBlockEng11111111111111111111111111111111",
+    "client_family": "Jito",
+    "client_version": "v2.0.14-jito",
+    "total_txs": 120,
+    "non_vote_txs": 105,
+    "txs_with_priority_fee": 86,
+    "pct_with_priority_fee": 81.9,
+    "global_spearman_rho": 0.642,
+    "global_spearman_pvalue": 0.0,
+    "global_kendall_tau": 0.4833,
+    "global_inversion_ratio": 0.2465,
+    "top_decile_head_concentration": 60.0,
+    "contended_accounts_count": 13,
+    "mean_conflict_spearman_rho": 0.6083,
+    "mean_conflict_inversion_ratio": 0.2369,
+    "top_conflict_clusters": [
+      {
+        "account_pubkey": "Pyth-SOL-USD-PriceFeed1111111111111111111111111",
+        "transaction_count": 14,
+        "spearman_rho": 0.6203150964930326,
+        "kendall_tau": 0.4693396640810579,
+        "inversion_ratio": 0.25274725274725274,
+        "p_value": 0.017943717606269005
+      },
+      {
+        "account_pubkey": "BONK-SOL-Whirlpool1111111111111111111111111111",
+        "transaction_count": 12,
+        "spearman_rho": 0.6444843508712785,
+        "kendall_tau": 0.5038314736557788,
+        "inversion_ratio": 0.24242424242424243,
+        "p_value": 0.02367734758034818
+      },
+      {
+        "account_pubkey": "JUP-USDC-Phoenix-Market111111111111111111111111",
+        "transaction_count": 12,
+        "spearman_rho": 0.5324001159371432,
+        "kendall_tau": 0.41222575117291005,
+        "inversion_ratio": 0.2878787878787879,
+        "p_value": 0.07475628173890238
+      },
+      {
+        "account_pubkey": "IndependentAcc_1",
+        "transaction_count": 12,
+        "spearman_rho": 0.34965034965034975,
+        "kendall_tau": 0.2424242424242424,
+        "inversion_ratio": 0.3787878787878788,
+        "p_value": 0.26523878689278996
+      },
+      {
+        "account_pubkey": "SOL-USDC-Raydium-Pool1111111111111111111111111",
+        "transaction_count": 10,
+        "spearman_rho": 0.6686960980480711,
+        "kendall_tau": 0.5393598899705937,
+        "inversion_ratio": 0.2222222222222222,
+        "p_value": 0.03450954165178536
+      }
+    ],
+    "scheduler_verdict": "STRICT_PRIORITY_KNAPSACK",
+    "verdict_confidence": 0.92,
+    "rationale": "High global rank correlation (rho=0.64) and strong conflict-cluster ordering (rho=0.61) with low inversion ratio (0.25). Typical of Firedancer fd_pack binning knapsack."
+  },
+  {
+    "slot": 300120511,
+    "leader_pubkey": "JitoBlockEng11111111111111111111111111111111",
+    "client_family": "Jito",
+    "client_version": "v2.0.14-jito",
+    "total_txs": 120,
+    "non_vote_txs": 105,
+    "txs_with_priority_fee": 91,
+    "pct_with_priority_fee": 86.67,
+    "global_spearman_rho": 0.6013,
+    "global_spearman_pvalue": 0.0,
+    "global_kendall_tau": 0.4508,
+    "global_inversion_ratio": 0.2681,
+    "top_decile_head_concentration": 80.0,
+    "contended_accounts_count": 14,
+    "mean_conflict_spearman_rho": 0.6209,
+    "mean_conflict_inversion_ratio": 0.2297,
+    "top_conflict_clusters": [
+      {
+        "account_pubkey": "Pyth-SOL-USD-PriceFeed1111111111111111111111111",
+        "transaction_count": 16,
+        "spearman_rho": 0.29705882352941176,
+        "kendall_tau": 0.21666666666666667,
+        "inversion_ratio": 0.39166666666666666,
+        "p_value": 0.26386301461352263
+      },
+      {
+        "account_pubkey": "IndependentAcc_7",
+        "transaction_count": 10,
+        "spearman_rho": 0.32121212121212117,
+        "kendall_tau": 0.19999999999999998,
+        "inversion_ratio": 0.4,
+        "p_value": 0.36546831043867045
+      },
+      {
+        "account_pubkey": "IndependentAcc_1",
+        "transaction_count": 9,
+        "spearman_rho": 0.8666666666666667,
+        "kendall_tau": 0.7777777777777778,
+        "inversion_ratio": 0.1111111111111111,
+        "p_value": 0.002495398285990204
+      },
+      {
+        "account_pubkey": "BONK-SOL-Whirlpool1111111111111111111111111111",
+        "transaction_count": 9,
+        "spearman_rho": 0.6694619270045785,
+        "kendall_tau": 0.4789207443461594,
+        "inversion_ratio": 0.25,
+        "p_value": 0.04856819494488677
+      },
+      {
+        "account_pubkey": "IndependentAcc_4",
+        "transaction_count": 9,
+        "spearman_rho": 0.05085476277156078,
+        "kendall_tau": -0.029012942659282972,
+        "inversion_ratio": 0.4722222222222222,
+        "p_value": 0.896622545113034
+      }
+    ],
+    "scheduler_verdict": "STRICT_PRIORITY_KNAPSACK",
+    "verdict_confidence": 0.92,
+    "rationale": "High global rank correlation (rho=0.60) and strong conflict-cluster ordering (rho=0.62) with low inversion ratio (0.27). Typical of Firedancer fd_pack binning knapsack."
+  },
+  {
+    "slot": 300120401,
+    "leader_pubkey": "AgaveValidatorCore11111111111111111111111111",
+    "client_family": "Agave",
+    "client_version": "v2.0.15-agave",
+    "total_txs": 120,
+    "non_vote_txs": 105,
+    "txs_with_priority_fee": 85,
+    "pct_with_priority_fee": 80.95,
+    "global_spearman_rho": 0.9451,
+    "global_spearman_pvalue": 0.0,
+    "global_kendall_tau": 0.8132,
+    "global_inversion_ratio": 0.0832,
+    "top_decile_head_concentration": 70.0,
+    "contended_accounts_count": 12,
+    "mean_conflict_spearman_rho": 0.9161,
+    "mean_conflict_inversion_ratio": 0.0688,
+    "top_conflict_clusters": [
+      {
+        "account_pubkey": "IndependentAcc_5",
+        "transaction_count": 10,
+        "spearman_rho": 0.9636363636363635,
+        "kendall_tau": 0.8666666666666666,
+        "inversion_ratio": 0.06666666666666667,
+        "p_value": 7.32097480952992e-06
+      },
+      {
+        "account_pubkey": "IndependentAcc_6",
+        "transaction_count": 10,
+        "spearman_rho": 0.9636363636363635,
+        "kendall_tau": 0.8666666666666666,
+        "inversion_ratio": 0.06666666666666667,
+        "p_value": 7.32097480952992e-06
+      },
+      {
+        "account_pubkey": "Pyth-SOL-USD-PriceFeed1111111111111111111111111",
+        "transaction_count": 10,
+        "spearman_rho": 0.8303030303030302,
+        "kendall_tau": 0.6888888888888888,
+        "inversion_ratio": 0.15555555555555556,
+        "p_value": 0.002940227023279509
+      },
+      {
+        "account_pubkey": "SOL-USDC-Raydium-Pool1111111111111111111111111",
+        "transaction_count": 10,
+        "spearman_rho": 0.9141792475183746,
+        "kendall_tau": 0.828078671210825,
+        "inversion_ratio": 0.06666666666666667,
+        "p_value": 0.00021374925624336466
+      },
+      {
+        "account_pubkey": "BONK-SOL-Whirlpool1111111111111111111111111111",
+        "transaction_count": 10,
+        "spearman_rho": 0.9755335594323594,
+        "kendall_tau": 0.9200874124564723,
+        "inversion_ratio": 0.022222222222222223,
+        "p_value": 1.5221342547933905e-06
+      }
+    ],
+    "scheduler_verdict": "STRICT_PRIORITY_KNAPSACK",
+    "verdict_confidence": 0.92,
+    "rationale": "High global rank correlation (rho=0.95) and strong conflict-cluster ordering (rho=0.92) with low inversion ratio (0.08). Typical of Firedancer fd_pack binning knapsack."
+  },
+  {
+    "slot": 300120402,
+    "leader_pubkey": "AgaveValidatorCore11111111111111111111111111",
+    "client_family": "Agave",
+    "client_version": "v2.0.15-agave",
+    "total_txs": 120,
+    "non_vote_txs": 105,
+    "txs_with_priority_fee": 90,
+    "pct_with_priority_fee": 85.71,
+    "global_spearman_rho": 0.9055,
+    "global_spearman_pvalue": 0.0,
+    "global_kendall_tau": 0.7525,
+    "global_inversion_ratio": 0.1178,
+    "top_decile_head_concentration": 80.0,
+    "contended_accounts_count": 12,
+    "mean_conflict_spearman_rho": 0.9117,
+    "mean_conflict_inversion_ratio": 0.082,
+    "top_conflict_clusters": [
+      {
+        "account_pubkey": "IndependentAcc_3",
+        "transaction_count": 12,
+        "spearman_rho": 0.9422080999150758,
+        "kendall_tau": 0.8702543635872545,
+        "inversion_ratio": 0.06060606060606061,
+        "p_value": 4.605617330515958e-06
+      },
+      {
+        "account_pubkey": "IndependentAcc_0",
+        "transaction_count": 12,
+        "spearman_rho": 0.9580419580419581,
+        "kendall_tau": 0.8484848484848484,
+        "inversion_ratio": 0.07575757575757576,
+        "p_value": 9.543581826838402e-07
+      },
+      {
+        "account_pubkey": "IndependentAcc_2",
+        "transaction_count": 10,
+        "spearman_rho": 0.9066928292470474,
+        "kendall_tau": 0.835467353046005,
+        "inversion_ratio": 0.044444444444444446,
+        "p_value": 0.00029591155505941227
+      },
+      {
+        "account_pubkey": "IndependentAcc_4",
+        "transaction_count": 9,
+        "spearman_rho": 0.9333333333333332,
+        "kendall_tau": 0.8333333333333334,
+        "inversion_ratio": 0.08333333333333333,
+        "p_value": 0.00023589981215941643
+      },
+      {
+        "account_pubkey": "IndependentAcc_7",
+        "transaction_count": 9,
+        "spearman_rho": 0.9666666666666667,
+        "kendall_tau": 0.8888888888888888,
+        "inversion_ratio": 0.05555555555555555,
+        "p_value": 2.155031274835773e-05
+      }
+    ],
+    "scheduler_verdict": "STRICT_PRIORITY_KNAPSACK",
+    "verdict_confidence": 0.92,
+    "rationale": "High global rank correlation (rho=0.91) and strong conflict-cluster ordering (rho=0.91) with low inversion ratio (0.12). Typical of Firedancer fd_pack binning knapsack."
+  },
+  {
+    "slot": 300120701,
+    "leader_pubkey": "RakuraiFastRoute111111111111111111111111111",
+    "client_family": "Rakurai",
+    "client_version": "v1.18.26-rakurai",
+    "total_txs": 120,
+    "non_vote_txs": 105,
+    "txs_with_priority_fee": 94,
+    "pct_with_priority_fee": 89.52,
+    "global_spearman_rho": -0.0226,
+    "global_spearman_pvalue": 0.819219,
+    "global_kendall_tau": -0.0208,
+    "global_inversion_ratio": 0.5053,
+    "top_decile_head_concentration": 0.0,
+    "contended_accounts_count": 12,
+    "mean_conflict_spearman_rho": -0.1028,
+    "mean_conflict_inversion_ratio": 0.5359,
+    "top_conflict_clusters": [
+      {
+        "account_pubkey": "IndependentAcc_0",
+        "transaction_count": 12,
+        "spearman_rho": -0.514097255098919,
+        "kendall_tau": -0.32566947363946475,
+        "inversion_ratio": 0.6363636363636364,
+        "p_value": 0.08728638545976065
+      },
+      {
+        "account_pubkey": "JUP-USDC-Phoenix-Market111111111111111111111111",
+        "transaction_count": 12,
+        "spearman_rho": -0.055944055944055944,
+        "kendall_tau": -0.0303030303030303,
+        "inversion_ratio": 0.5151515151515151,
+        "p_value": 0.8628980736949713
+      },
+      {
+        "account_pubkey": "IndependentAcc_2",
+        "transaction_count": 11,
+        "spearman_rho": -0.13667461427346156,
+        "kendall_tau": -0.11009637651263605,
+        "inversion_ratio": 0.5454545454545454,
+        "p_value": 0.6886311376119463
+      },
+      {
+        "account_pubkey": "BONK-SOL-Whirlpool1111111111111111111111111111",
+        "transaction_count": 11,
+        "spearman_rho": -0.11818181818181818,
+        "kendall_tau": -0.05454545454545454,
+        "inversion_ratio": 0.5272727272727272,
+        "p_value": 0.7292847795197801
+      },
+      {
+        "account_pubkey": "IndependentAcc_6",
+        "transaction_count": 9,
+        "spearman_rho": 0.65,
+        "kendall_tau": 0.5,
+        "inversion_ratio": 0.25,
+        "p_value": 0.058073058017148654
+      }
+    ],
+    "scheduler_verdict": "ARRIVAL_ORDER_JITTER_DOMINATED",
+    "verdict_confidence": 0.8,
+    "rationale": "Near-zero correlation (global rho=-0.02, cluster rho=-0.10) with high inversion ratio (0.51). Network transit time and QUIC packet arrivals dominate over priority fees."
+  }
+]

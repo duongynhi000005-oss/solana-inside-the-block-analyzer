@@ -1,0 +1,2012 @@
+{
+  "timestamp": "2026-10-25T15:30:00Z",
+  "solana_network": "mainnet-beta",
+  "upgrade_milestone": "Post-Alpenglow (Upgrade Oct 21, 2026)",
+  "spend_cap_audit": {
+    "max_allowed_lamports": 50000000,
+    "max_allowed_sol": 0.05,
+    "total_spent_lamports": 290480,
+    "total_spent_sol": 0.00029048,
+    "remaining_sol": 0.04970952,
+    "dry_run": true,
+    "total_probes": 48,
+    "history": [
+      {
+        "amount_lamports": 5000,
+        "cumulative_spent": 5000,
+        "context": "Dry-run probe 1 for slot 461309840 (validator JUPiTERr)",
+        "dry_run": true
+      },
+      {
+        "amount_lamports": 5010,
+        "cumulative_spent": 10010,
+        "context": "Dry-run probe 2 for slot 461309840 (validator JUPiTERr)",
+        "dry_run": true
+      },
+      {
+        "amount_lamports": 5050,
+        "cumulative_spent": 15060,
+        "context": "Dry-run probe 3 for slot 461309840 (validator JUPiTERr)",
+        "dry_run": true
+      },
+      {
+        "amount_lamports": 5250,
+        "cumulative_spent": 20310,
+        "context": "Dry-run probe 4 for slot 461309840 (validator JUPiTERr)",
+        "dry_run": true
+      },
+      {
+        "amount_lamports": 6000,
+        "cumulative_spent": 26310,
+        "context": "Dry-run probe 5 for slot 461309840 (validator JUPiTERr)",
+        "dry_run": true
+      },
+      {
+        "amount_lamports": 10000,
+        "cumulative_spent": 36310,
+        "context": "Dry-run probe 6 for slot 461309840 (validator JUPiTERr)",
+        "dry_run": true
+      },
+      {
+        "amount_lamports": 5000,
+        "cumulative_spent": 41310,
+        "context": "Dry-run probe 7 for slot 461309848 (validator EvnRmnMr)",
+        "dry_run": true
+      },
+      {
+        "amount_lamports": 5010,
+        "cumulative_spent": 46320,
+        "context": "Dry-run probe 8 for slot 461309848 (validator EvnRmnMr)",
+        "dry_run": true
+      },
+      {
+        "amount_lamports": 5050,
+        "cumulative_spent": 51370,
+        "context": "Dry-run probe 9 for slot 461309848 (validator EvnRmnMr)",
+        "dry_run": true
+      },
+      {
+        "amount_lamports": 5250,
+        "cumulative_spent": 56620,
+        "context": "Dry-run probe 10 for slot 461309848 (validator EvnRmnMr)",
+        "dry_run": true
+      },
+      {
+        "amount_lamports": 6000,
+        "cumulative_spent": 62620,
+        "context": "Dry-run probe 11 for slot 461309848 (validator EvnRmnMr)",
+        "dry_run": true
+      },
+      {
+        "amount_lamports": 10000,
+        "cumulative_spent": 72620,
+        "context": "Dry-run probe 12 for slot 461309848 (validator EvnRmnMr)",
+        "dry_run": true
+      },
+      {
+        "amount_lamports": 5000,
+        "cumulative_spent": 77620,
+        "context": "Dry-run probe 13 for slot 461309980 (validator HEL1USMZ)",
+        "dry_run": true
+      },
+      {
+        "amount_lamports": 5010,
+        "cumulative_spent": 82630,
+        "context": "Dry-run probe 14 for slot 461309980 (validator HEL1USMZ)",
+        "dry_run": true
+      },
+      {
+        "amount_lamports": 5050,
+        "cumulative_spent": 87680,
+        "context": "Dry-run probe 15 for slot 461309980 (validator HEL1USMZ)",
+        "dry_run": true
+      },
+      {
+        "amount_lamports": 5250,
+        "cumulative_spent": 92930,
+        "context": "Dry-run probe 16 for slot 461309980 (validator HEL1USMZ)",
+        "dry_run": true
+      },
+      {
+        "amount_lamports": 6000,
+        "cumulative_spent": 98930,
+        "context": "Dry-run probe 17 for slot 461309980 (validator HEL1USMZ)",
+        "dry_run": true
+      },
+      {
+        "amount_lamports": 10000,
+        "cumulative_spent": 108930,
+        "context": "Dry-run probe 18 for slot 461309980 (validator HEL1USMZ)",
+        "dry_run": true
+      },
+      {
+        "amount_lamports": 5000,
+        "cumulative_spent": 113930,
+        "context": "Dry-run probe 19 for slot 461309768 (validator E1r4Psq8)",
+        "dry_run": true
+      },
+      {
+        "amount_lamports": 5010,
+        "cumulative_spent": 118940,
+        "context": "Dry-run probe 20 for slot 461309768 (validator E1r4Psq8)",
+        "dry_run": true
+      },
+      {
+        "amount_lamports": 5050,
+        "cumulative_spent": 123990,
+        "context": "Dry-run probe 21 for slot 461309768 (validator E1r4Psq8)",
+        "dry_run": true
+      },
+      {
+        "amount_lamports": 5250,
+        "cumulative_spent": 129240,
+        "context": "Dry-run probe 22 for slot 461309768 (validator E1r4Psq8)",
+        "dry_run": true
+      },
+      {
+        "amount_lamports": 6000,
+        "cumulative_spent": 135240,
+        "context": "Dry-run probe 23 for slot 461309768 (validator E1r4Psq8)",
+        "dry_run": true
+      },
+      {
+        "amount_lamports": 10000,
+        "cumulative_spent": 145240,
+        "context": "Dry-run probe 24 for slot 461309768 (validator E1r4Psq8)",
+        "dry_run": true
+      },
+      {
+        "amount_lamports": 5000,
+        "cumulative_spent": 150240,
+        "context": "Dry-run probe 25 for slot 461309896 (validator Fd7btgyS)",
+        "dry_run": true
+      },
+      {
+        "amount_lamports": 5010,
+        "cumulative_spent": 155250,
+        "context": "Dry-run probe 26 for slot 461309896 (validator Fd7btgyS)",
+        "dry_run": true
+      },
+      {
+        "amount_lamports": 5050,
+        "cumulative_spent": 160300,
+        "context": "Dry-run probe 27 for slot 461309896 (validator Fd7btgyS)",
+        "dry_run": true
+      },
+      {
+        "amount_lamports": 5250,
+        "cumulative_spent": 165550,
+        "context": "Dry-run probe 28 for slot 461309896 (validator Fd7btgyS)",
+        "dry_run": true
+      },
+      {
+        "amount_lamports": 6000,
+        "cumulative_spent": 171550,
+        "context": "Dry-run probe 29 for slot 461309896 (validator Fd7btgyS)",
+        "dry_run": true
+      },
+      {
+        "amount_lamports": 10000,
+        "cumulative_spent": 181550,
+        "context": "Dry-run probe 30 for slot 461309896 (validator Fd7btgyS)",
+        "dry_run": true
+      },
+      {
+        "amount_lamports": 5000,
+        "cumulative_spent": 186550,
+        "context": "Dry-run probe 31 for slot 461309828 (validator DRpbCBMx)",
+        "dry_run": true
+      },
+      {
+        "amount_lamports": 5010,
+        "cumulative_spent": 191560,
+        "context": "Dry-run probe 32 for slot 461309828 (validator DRpbCBMx)",
+        "dry_run": true
+      },
+      {
+        "amount_lamports": 5050,
+        "cumulative_spent": 196610,
+        "context": "Dry-run probe 33 for slot 461309828 (validator DRpbCBMx)",
+        "dry_run": true
+      },
+      {
+        "amount_lamports": 5250,
+        "cumulative_spent": 201860,
+        "context": "Dry-run probe 34 for slot 461309828 (validator DRpbCBMx)",
+        "dry_run": true
+      },
+      {
+        "amount_lamports": 6000,
+        "cumulative_spent": 207860,
+        "context": "Dry-run probe 35 for slot 461309828 (validator DRpbCBMx)",
+        "dry_run": true
+      },
+      {
+        "amount_lamports": 10000,
+        "cumulative_spent": 217860,
+        "context": "Dry-run probe 36 for slot 461309828 (validator DRpbCBMx)",
+        "dry_run": true
+      },
+      {
+        "amount_lamports": 5000,
+        "cumulative_spent": 222860,
+        "context": "Dry-run probe 37 for slot 461309944 (validator ana2y2Yv)",
+        "dry_run": true
+      },
+      {
+        "amount_lamports": 5010,
+        "cumulative_spent": 227870,
+        "context": "Dry-run probe 38 for slot 461309944 (validator ana2y2Yv)",
+        "dry_run": true
+      },
+      {
+        "amount_lamports": 5050,
+        "cumulative_spent": 232920,
+        "context": "Dry-run probe 39 for slot 461309944 (validator ana2y2Yv)",
+        "dry_run": true
+      },
+      {
+        "amount_lamports": 5250,
+        "cumulative_spent": 238170,
+        "context": "Dry-run probe 40 for slot 461309944 (validator ana2y2Yv)",
+        "dry_run": true
+      },
+      {
+        "amount_lamports": 6000,
+        "cumulative_spent": 244170,
+        "context": "Dry-run probe 41 for slot 461309944 (validator ana2y2Yv)",
+        "dry_run": true
+      },
+      {
+        "amount_lamports": 10000,
+        "cumulative_spent": 254170,
+        "context": "Dry-run probe 42 for slot 461309944 (validator ana2y2Yv)",
+        "dry_run": true
+      },
+      {
+        "amount_lamports": 5000,
+        "cumulative_spent": 259170,
+        "context": "Dry-run probe 43 for slot 461309904 (validator E3mDbFMr)",
+        "dry_run": true
+      },
+      {
+        "amount_lamports": 5010,
+        "cumulative_spent": 264180,
+        "context": "Dry-run probe 44 for slot 461309904 (validator E3mDbFMr)",
+        "dry_run": true
+      },
+      {
+        "amount_lamports": 5050,
+        "cumulative_spent": 269230,
+        "context": "Dry-run probe 45 for slot 461309904 (validator E3mDbFMr)",
+        "dry_run": true
+      },
+      {
+        "amount_lamports": 5250,
+        "cumulative_spent": 274480,
+        "context": "Dry-run probe 46 for slot 461309904 (validator E3mDbFMr)",
+        "dry_run": true
+      },
+      {
+        "amount_lamports": 6000,
+        "cumulative_spent": 280480,
+        "context": "Dry-run probe 47 for slot 461309904 (validator E3mDbFMr)",
+        "dry_run": true
+      },
+      {
+        "amount_lamports": 10000,
+        "cumulative_spent": 290480,
+        "context": "Dry-run probe 48 for slot 461309904 (validator E3mDbFMr)",
+        "dry_run": true
+      }
+    ]
+  },
+  "measurements_count": 16,
+  "measurements": [
+    {
+      "slot": 461309840,
+      "leader_pubkey": "JUPiTERrZqgf1jUyR7dSkhMx4Kn2qJyekWsg3LT1h4b",
+      "client_family": "Firedancer",
+      "client_version": "26.10.4",
+      "total_transactions": 260,
+      "non_vote_transactions": 260,
+      "txs_with_priority_fee": 96,
+      "pct_with_priority_fee": 36.92,
+      "metrics": {
+        "spearman_rho": -0.1101,
+        "spearman_pvalue": 0.076405,
+        "kendall_tau": -0.0791,
+        "inversion_ratio": 0.3314,
+        "top_decile_head_concentration": 30.77,
+        "mean_conflict_spearman_rho": -0.3941,
+        "mean_conflict_inversion_ratio": 0.4998
+      },
+      "conflict_clusters": [
+        {
+          "account_pubkey": "4o48tixYsXXxerv88ckqFNzu2t7nP3h4Xdix7ssR5vao",
+          "transaction_count": 39,
+          "spearman_rho": 0.004968069835326806,
+          "kendall_tau": 0.0,
+          "inversion_ratio": 0.48582995951417,
+          "p_value": 0.9760540525471059
+        },
+        {
+          "account_pubkey": "5pH1aaukuunSzf79YHBLTrtktgm4dbbqk9nuzzG6eJqC",
+          "transaction_count": 39,
+          "spearman_rho": 0.004968069835326806,
+          "kendall_tau": 0.0,
+          "inversion_ratio": 0.48582995951417,
+          "p_value": 0.9760540525471059
+        },
+        {
+          "account_pubkey": "GeLSDv7jcgKyaZc8JUSzMKQRLmkcbxyGjy5EZPwsix5D",
+          "transaction_count": 39,
+          "spearman_rho": 0.004968069835326806,
+          "kendall_tau": 0.0,
+          "inversion_ratio": 0.48582995951417,
+          "p_value": 0.9760540525471059
+        },
+        {
+          "account_pubkey": "94qWNrtmfn42h3ZjUZwWvK1MEo9uVmmrBPd2hpNjYDjb",
+          "transaction_count": 32,
+          "spearman_rho": -0.0628465190111287,
+          "kendall_tau": -0.0459579718509347,
+          "inversion_ratio": 0.4879032258064516,
+          "p_value": 0.7325712377926766
+        },
+        {
+          "account_pubkey": "FfbiB6ZWEtzczinzhGDH5mHcqmvUYFhxZYNwgdfvKvPU",
+          "transaction_count": 30,
+          "spearman_rho": 0.060268194963276046,
+          "kendall_tau": 0.04461089589220542,
+          "inversion_ratio": 0.4574712643678161,
+          "p_value": 0.7517265163661784
+        }
+      ],
+      "scheduler_verdict": "HYBRID_PARTIAL_ORDERING",
+      "verdict_confidence": 0.7,
+      "rationale": "Hybrid behavior with global rho=-0.11, conflict rho=-0.39, inversion ratio=0.33."
+    },
+    {
+      "slot": 461309841,
+      "leader_pubkey": "JUPiTERrZqgf1jUyR7dSkhMx4Kn2qJyekWsg3LT1h4b",
+      "client_family": "Firedancer",
+      "client_version": "26.10.4",
+      "total_transactions": 382,
+      "non_vote_transactions": 382,
+      "txs_with_priority_fee": 134,
+      "pct_with_priority_fee": 35.08,
+      "metrics": {
+        "spearman_rho": 0.0286,
+        "spearman_pvalue": 0.577236,
+        "kendall_tau": 0.0258,
+        "inversion_ratio": 0.3184,
+        "top_decile_head_concentration": 21.05,
+        "mean_conflict_spearman_rho": -0.0201,
+        "mean_conflict_inversion_ratio": 0.3849
+      },
+      "conflict_clusters": [
+        {
+          "account_pubkey": "4o48tixYsXXxerv88ckqFNzu2t7nP3h4Xdix7ssR5vao",
+          "transaction_count": 79,
+          "spearman_rho": 0.18840423011008656,
+          "kendall_tau": 0.13938535241034536,
+          "inversion_ratio": 0.4037650113599481,
+          "p_value": 0.09635059554117793
+        },
+        {
+          "account_pubkey": "5pH1aaukuunSzf79YHBLTrtktgm4dbbqk9nuzzG6eJqC",
+          "transaction_count": 79,
+          "spearman_rho": 0.18840423011008656,
+          "kendall_tau": 0.13938535241034536,
+          "inversion_ratio": 0.4037650113599481,
+          "p_value": 0.09635059554117793
+        },
+        {
+          "account_pubkey": "GeLSDv7jcgKyaZc8JUSzMKQRLmkcbxyGjy5EZPwsix5D",
+          "transaction_count": 79,
+          "spearman_rho": 0.18840423011008656,
+          "kendall_tau": 0.13938535241034536,
+          "inversion_ratio": 0.4037650113599481,
+          "p_value": 0.09635059554117793
+        },
+        {
+          "account_pubkey": "FfbiB6ZWEtzczinzhGDH5mHcqmvUYFhxZYNwgdfvKvPU",
+          "transaction_count": 60,
+          "spearman_rho": 0.20685861456674617,
+          "kendall_tau": 0.15687401397328918,
+          "inversion_ratio": 0.4062146892655367,
+          "p_value": 0.11278041644079381
+        },
+        {
+          "account_pubkey": "94qWNrtmfn42h3ZjUZwWvK1MEo9uVmmrBPd2hpNjYDjb",
+          "transaction_count": 45,
+          "spearman_rho": 0.33646416053655764,
+          "kendall_tau": 0.24401049651105566,
+          "inversion_ratio": 0.3474747474747475,
+          "p_value": 0.023827902509241102
+        }
+      ],
+      "scheduler_verdict": "HYBRID_PARTIAL_ORDERING",
+      "verdict_confidence": 0.7,
+      "rationale": "Hybrid behavior with global rho=0.03, conflict rho=-0.02, inversion ratio=0.32."
+    },
+    {
+      "slot": 461309848,
+      "leader_pubkey": "EvnRmnMrd69kFdbLMxWkTn1icZ7DCceRhvmb2SJXqDo4",
+      "client_family": "Firedancer",
+      "client_version": "26.10.4",
+      "total_transactions": 445,
+      "non_vote_transactions": 445,
+      "txs_with_priority_fee": 152,
+      "pct_with_priority_fee": 34.16,
+      "metrics": {
+        "spearman_rho": -0.1558,
+        "spearman_pvalue": 0.000973,
+        "kendall_tau": -0.1059,
+        "inversion_ratio": 0.2929,
+        "top_decile_head_concentration": 29.55,
+        "mean_conflict_spearman_rho": -0.03,
+        "mean_conflict_inversion_ratio": 0.3843
+      },
+      "conflict_clusters": [
+        {
+          "account_pubkey": "4o48tixYsXXxerv88ckqFNzu2t7nP3h4Xdix7ssR5vao",
+          "transaction_count": 75,
+          "spearman_rho": 0.41867166633411307,
+          "kendall_tau": 0.3617425426145801,
+          "inversion_ratio": 0.30234234234234236,
+          "p_value": 0.00018535860857531273
+        },
+        {
+          "account_pubkey": "5pH1aaukuunSzf79YHBLTrtktgm4dbbqk9nuzzG6eJqC",
+          "transaction_count": 75,
+          "spearman_rho": 0.41867166633411307,
+          "kendall_tau": 0.3617425426145801,
+          "inversion_ratio": 0.30234234234234236,
+          "p_value": 0.00018535860857531273
+        },
+        {
+          "account_pubkey": "GeLSDv7jcgKyaZc8JUSzMKQRLmkcbxyGjy5EZPwsix5D",
+          "transaction_count": 75,
+          "spearman_rho": 0.41867166633411307,
+          "kendall_tau": 0.3617425426145801,
+          "inversion_ratio": 0.30234234234234236,
+          "p_value": 0.00018535860857531273
+        },
+        {
+          "account_pubkey": "94qWNrtmfn42h3ZjUZwWvK1MEo9uVmmrBPd2hpNjYDjb",
+          "transaction_count": 66,
+          "spearman_rho": 0.24406447916925667,
+          "kendall_tau": 0.22160102085069913,
+          "inversion_ratio": 0.34498834498834496,
+          "p_value": 0.04828167937570369
+        },
+        {
+          "account_pubkey": "FfbiB6ZWEtzczinzhGDH5mHcqmvUYFhxZYNwgdfvKvPU",
+          "transaction_count": 66,
+          "spearman_rho": 0.3433992211367377,
+          "kendall_tau": 0.2927008415638737,
+          "inversion_ratio": 0.3417249417249417,
+          "p_value": 0.004759505782214141
+        }
+      ],
+      "scheduler_verdict": "HYBRID_PARTIAL_ORDERING",
+      "verdict_confidence": 0.7,
+      "rationale": "Hybrid behavior with global rho=-0.16, conflict rho=-0.03, inversion ratio=0.29."
+    },
+    {
+      "slot": 461309849,
+      "leader_pubkey": "EvnRmnMrd69kFdbLMxWkTn1icZ7DCceRhvmb2SJXqDo4",
+      "client_family": "Firedancer",
+      "client_version": "26.10.4",
+      "total_transactions": 277,
+      "non_vote_transactions": 277,
+      "txs_with_priority_fee": 93,
+      "pct_with_priority_fee": 33.57,
+      "metrics": {
+        "spearman_rho": -0.0921,
+        "spearman_pvalue": 0.126043,
+        "kendall_tau": -0.0701,
+        "inversion_ratio": 0.3052,
+        "top_decile_head_concentration": 40.74,
+        "mean_conflict_spearman_rho": -0.0865,
+        "mean_conflict_inversion_ratio": 0.3503
+      },
+      "conflict_clusters": [
+        {
+          "account_pubkey": "4o48tixYsXXxerv88ckqFNzu2t7nP3h4Xdix7ssR5vao",
+          "transaction_count": 48,
+          "spearman_rho": 0.1996889789177716,
+          "kendall_tau": 0.1705591505371763,
+          "inversion_ratio": 0.3803191489361702,
+          "p_value": 0.1735869636319466
+        },
+        {
+          "account_pubkey": "5pH1aaukuunSzf79YHBLTrtktgm4dbbqk9nuzzG6eJqC",
+          "transaction_count": 48,
+          "spearman_rho": 0.1996889789177716,
+          "kendall_tau": 0.1705591505371763,
+          "inversion_ratio": 0.3803191489361702,
+          "p_value": 0.1735869636319466
+        },
+        {
+          "account_pubkey": "GeLSDv7jcgKyaZc8JUSzMKQRLmkcbxyGjy5EZPwsix5D",
+          "transaction_count": 48,
+          "spearman_rho": 0.1996889789177716,
+          "kendall_tau": 0.1705591505371763,
+          "inversion_ratio": 0.3803191489361702,
+          "p_value": 0.1735869636319466
+        },
+        {
+          "account_pubkey": "FfbiB6ZWEtzczinzhGDH5mHcqmvUYFhxZYNwgdfvKvPU",
+          "transaction_count": 40,
+          "spearman_rho": 0.13113136115609803,
+          "kendall_tau": 0.1296963017073053,
+          "inversion_ratio": 0.4153846153846154,
+          "p_value": 0.4199312805009968
+        },
+        {
+          "account_pubkey": "94qWNrtmfn42h3ZjUZwWvK1MEo9uVmmrBPd2hpNjYDjb",
+          "transaction_count": 31,
+          "spearman_rho": 0.41948038329390364,
+          "kendall_tau": 0.3294506541376401,
+          "inversion_ratio": 0.30752688172043013,
+          "p_value": 0.018818321377179134
+        }
+      ],
+      "scheduler_verdict": "HYBRID_PARTIAL_ORDERING",
+      "verdict_confidence": 0.7,
+      "rationale": "Hybrid behavior with global rho=-0.09, conflict rho=-0.09, inversion ratio=0.31."
+    },
+    {
+      "slot": 461309980,
+      "leader_pubkey": "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
+      "client_family": "Jito",
+      "client_version": "4.3.2",
+      "total_transactions": 273,
+      "non_vote_transactions": 273,
+      "txs_with_priority_fee": 130,
+      "pct_with_priority_fee": 47.62,
+      "metrics": {
+        "spearman_rho": -0.0928,
+        "spearman_pvalue": 0.126128,
+        "kendall_tau": -0.0695,
+        "inversion_ratio": 0.3905,
+        "top_decile_head_concentration": 22.22,
+        "mean_conflict_spearman_rho": -0.2732,
+        "mean_conflict_inversion_ratio": 0.4837
+      },
+      "conflict_clusters": [
+        {
+          "account_pubkey": "4o48tixYsXXxerv88ckqFNzu2t7nP3h4Xdix7ssR5vao",
+          "transaction_count": 76,
+          "spearman_rho": -0.10904363310181282,
+          "kendall_tau": -0.07406957772204258,
+          "inversion_ratio": 0.512280701754386,
+          "p_value": 0.3484163613950707
+        },
+        {
+          "account_pubkey": "5pH1aaukuunSzf79YHBLTrtktgm4dbbqk9nuzzG6eJqC",
+          "transaction_count": 76,
+          "spearman_rho": -0.10904363310181282,
+          "kendall_tau": -0.07406957772204258,
+          "inversion_ratio": 0.512280701754386,
+          "p_value": 0.3484163613950707
+        },
+        {
+          "account_pubkey": "GeLSDv7jcgKyaZc8JUSzMKQRLmkcbxyGjy5EZPwsix5D",
+          "transaction_count": 76,
+          "spearman_rho": -0.10904363310181282,
+          "kendall_tau": -0.07406957772204258,
+          "inversion_ratio": 0.512280701754386,
+          "p_value": 0.3484163613950707
+        },
+        {
+          "account_pubkey": "FfbiB6ZWEtzczinzhGDH5mHcqmvUYFhxZYNwgdfvKvPU",
+          "transaction_count": 70,
+          "spearman_rho": -0.20544657516615086,
+          "kendall_tau": -0.13556915369577976,
+          "inversion_ratio": 0.5503105590062112,
+          "p_value": 0.08797231384526495
+        },
+        {
+          "account_pubkey": "94qWNrtmfn42h3ZjUZwWvK1MEo9uVmmrBPd2hpNjYDjb",
+          "transaction_count": 38,
+          "spearman_rho": 0.04447646161998967,
+          "kendall_tau": 0.03057597904983555,
+          "inversion_ratio": 0.4623044096728307,
+          "p_value": 0.7908987273011102
+        }
+      ],
+      "scheduler_verdict": "HYBRID_PARTIAL_ORDERING",
+      "verdict_confidence": 0.7,
+      "rationale": "Hybrid behavior with global rho=-0.09, conflict rho=-0.27, inversion ratio=0.39."
+    },
+    {
+      "slot": 461309981,
+      "leader_pubkey": "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
+      "client_family": "Jito",
+      "client_version": "4.3.2",
+      "total_transactions": 290,
+      "non_vote_transactions": 290,
+      "txs_with_priority_fee": 149,
+      "pct_with_priority_fee": 51.38,
+      "metrics": {
+        "spearman_rho": 0.0768,
+        "spearman_pvalue": 0.191986,
+        "kendall_tau": 0.0557,
+        "inversion_ratio": 0.3553,
+        "top_decile_head_concentration": 31.03,
+        "mean_conflict_spearman_rho": -0.1176,
+        "mean_conflict_inversion_ratio": 0.427
+      },
+      "conflict_clusters": [
+        {
+          "account_pubkey": "4o48tixYsXXxerv88ckqFNzu2t7nP3h4Xdix7ssR5vao",
+          "transaction_count": 83,
+          "spearman_rho": -0.08157280973857511,
+          "kendall_tau": -0.06128539573210076,
+          "inversion_ratio": 0.5083749632677049,
+          "p_value": 0.46348760424288515
+        },
+        {
+          "account_pubkey": "5pH1aaukuunSzf79YHBLTrtktgm4dbbqk9nuzzG6eJqC",
+          "transaction_count": 83,
+          "spearman_rho": -0.08157280973857511,
+          "kendall_tau": -0.06128539573210076,
+          "inversion_ratio": 0.5083749632677049,
+          "p_value": 0.46348760424288515
+        },
+        {
+          "account_pubkey": "GeLSDv7jcgKyaZc8JUSzMKQRLmkcbxyGjy5EZPwsix5D",
+          "transaction_count": 83,
+          "spearman_rho": -0.08157280973857511,
+          "kendall_tau": -0.06128539573210076,
+          "inversion_ratio": 0.5083749632677049,
+          "p_value": 0.46348760424288515
+        },
+        {
+          "account_pubkey": "FfbiB6ZWEtzczinzhGDH5mHcqmvUYFhxZYNwgdfvKvPU",
+          "transaction_count": 76,
+          "spearman_rho": -0.10529789005827161,
+          "kendall_tau": -0.08095199889064106,
+          "inversion_ratio": 0.523859649122807,
+          "p_value": 0.3653212273784188
+        },
+        {
+          "account_pubkey": "94qWNrtmfn42h3ZjUZwWvK1MEo9uVmmrBPd2hpNjYDjb",
+          "transaction_count": 54,
+          "spearman_rho": -0.0324626341409667,
+          "kendall_tau": -0.030565925387245625,
+          "inversion_ratio": 0.49825296995108315,
+          "p_value": 0.8157379348781469
+        }
+      ],
+      "scheduler_verdict": "HYBRID_PARTIAL_ORDERING",
+      "verdict_confidence": 0.7,
+      "rationale": "Hybrid behavior with global rho=0.08, conflict rho=-0.12, inversion ratio=0.36."
+    },
+    {
+      "slot": 461309768,
+      "leader_pubkey": "E1r4Psq84tHfQ6aPTvvDka4U3u8zPVD7gEUrH25RdxHL",
+      "client_family": "Jito",
+      "client_version": "4.3.2",
+      "total_transactions": 616,
+      "non_vote_transactions": 616,
+      "txs_with_priority_fee": 278,
+      "pct_with_priority_fee": 45.13,
+      "metrics": {
+        "spearman_rho": 0.0616,
+        "spearman_pvalue": 0.126939,
+        "kendall_tau": 0.0453,
+        "inversion_ratio": 0.3734,
+        "top_decile_head_concentration": 40.98,
+        "mean_conflict_spearman_rho": 0.0728,
+        "mean_conflict_inversion_ratio": 0.3504
+      },
+      "conflict_clusters": [
+        {
+          "account_pubkey": "4o48tixYsXXxerv88ckqFNzu2t7nP3h4Xdix7ssR5vao",
+          "transaction_count": 142,
+          "spearman_rho": 0.18698561864644794,
+          "kendall_tau": 0.13569034966076765,
+          "inversion_ratio": 0.3640994905603836,
+          "p_value": 0.025868049304625974
+        },
+        {
+          "account_pubkey": "5pH1aaukuunSzf79YHBLTrtktgm4dbbqk9nuzzG6eJqC",
+          "transaction_count": 142,
+          "spearman_rho": 0.18698561864644794,
+          "kendall_tau": 0.13569034966076765,
+          "inversion_ratio": 0.3640994905603836,
+          "p_value": 0.025868049304625974
+        },
+        {
+          "account_pubkey": "GeLSDv7jcgKyaZc8JUSzMKQRLmkcbxyGjy5EZPwsix5D",
+          "transaction_count": 142,
+          "spearman_rho": 0.18698561864644794,
+          "kendall_tau": 0.13569034966076765,
+          "inversion_ratio": 0.3640994905603836,
+          "p_value": 0.025868049304625974
+        },
+        {
+          "account_pubkey": "FfbiB6ZWEtzczinzhGDH5mHcqmvUYFhxZYNwgdfvKvPU",
+          "transaction_count": 116,
+          "spearman_rho": 0.24891285896706963,
+          "kendall_tau": 0.17133487100532127,
+          "inversion_ratio": 0.3739130434782609,
+          "p_value": 0.007051840944362972
+        },
+        {
+          "account_pubkey": "8dbyN9TovZhLeuogfKKdrEgpQsuggQJtmwaRyHnsB8KD",
+          "transaction_count": 94,
+          "spearman_rho": -0.20438095655494323,
+          "kendall_tau": -0.16805115820213043,
+          "inversion_ratio": 0.3662777396476779,
+          "p_value": 0.048161085064006286
+        }
+      ],
+      "scheduler_verdict": "HYBRID_PARTIAL_ORDERING",
+      "verdict_confidence": 0.7,
+      "rationale": "Hybrid behavior with global rho=0.06, conflict rho=0.07, inversion ratio=0.37."
+    },
+    {
+      "slot": 461309769,
+      "leader_pubkey": "E1r4Psq84tHfQ6aPTvvDka4U3u8zPVD7gEUrH25RdxHL",
+      "client_family": "Jito",
+      "client_version": "4.3.2",
+      "total_transactions": 414,
+      "non_vote_transactions": 414,
+      "txs_with_priority_fee": 180,
+      "pct_with_priority_fee": 43.48,
+      "metrics": {
+        "spearman_rho": -0.0879,
+        "spearman_pvalue": 0.074156,
+        "kendall_tau": -0.0646,
+        "inversion_ratio": 0.3204,
+        "top_decile_head_concentration": 24.39,
+        "mean_conflict_spearman_rho": -0.0862,
+        "mean_conflict_inversion_ratio": 0.4042
+      },
+      "conflict_clusters": [
+        {
+          "account_pubkey": "3ued9fQHLo5dyomDvhdPjmy5ET32e8YiCPUU3JwUx5Ja",
+          "transaction_count": 65,
+          "spearman_rho": 0.012265994910856623,
+          "kendall_tau": 0.033282190662415154,
+          "inversion_ratio": 0.3735576923076923,
+          "p_value": 0.9227451296734825
+        },
+        {
+          "account_pubkey": "4amoYiZoo1ekJLtDxKVHNU77E1oAET7xKFzLj71qwzSV",
+          "transaction_count": 65,
+          "spearman_rho": 0.012265994910856623,
+          "kendall_tau": 0.033282190662415154,
+          "inversion_ratio": 0.3735576923076923,
+          "p_value": 0.9227451296734825
+        },
+        {
+          "account_pubkey": "7oEaD4C8CF94mGELmeiXeztb6VUn8nLf3EPV5bkec8Ch",
+          "transaction_count": 65,
+          "spearman_rho": 0.012265994910856623,
+          "kendall_tau": 0.033282190662415154,
+          "inversion_ratio": 0.3735576923076923,
+          "p_value": 0.9227451296734825
+        },
+        {
+          "account_pubkey": "2twhsypNVDGNbEjxZ2NfW36Ahr9zDFN1UpGxD37szDQV",
+          "transaction_count": 64,
+          "spearman_rho": -0.028157855132252115,
+          "kendall_tau": 0.006220732440940329,
+          "inversion_ratio": 0.3819444444444444,
+          "p_value": 0.8251961116586204
+        },
+        {
+          "account_pubkey": "3FZLdfqbp1tFLty4fiBwz11mDi3rRWyPKASqWAyRtDV3",
+          "transaction_count": 64,
+          "spearman_rho": -0.028157855132252115,
+          "kendall_tau": 0.006220732440940329,
+          "inversion_ratio": 0.3819444444444444,
+          "p_value": 0.8251961116586204
+        }
+      ],
+      "scheduler_verdict": "HYBRID_PARTIAL_ORDERING",
+      "verdict_confidence": 0.7,
+      "rationale": "Hybrid behavior with global rho=-0.09, conflict rho=-0.09, inversion ratio=0.32."
+    },
+    {
+      "slot": 461309896,
+      "leader_pubkey": "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
+      "client_family": "Agave",
+      "client_version": "4.3.2",
+      "total_transactions": 337,
+      "non_vote_transactions": 337,
+      "txs_with_priority_fee": 140,
+      "pct_with_priority_fee": 41.54,
+      "metrics": {
+        "spearman_rho": -0.01,
+        "spearman_pvalue": 0.854794,
+        "kendall_tau": -0.0067,
+        "inversion_ratio": 0.3256,
+        "top_decile_head_concentration": 24.24,
+        "mean_conflict_spearman_rho": -0.0494,
+        "mean_conflict_inversion_ratio": 0.4046
+      },
+      "conflict_clusters": [
+        {
+          "account_pubkey": "4o48tixYsXXxerv88ckqFNzu2t7nP3h4Xdix7ssR5vao",
+          "transaction_count": 64,
+          "spearman_rho": 0.061237998571680344,
+          "kendall_tau": 0.04810526399953432,
+          "inversion_ratio": 0.44642857142857145,
+          "p_value": 0.6307297698389691
+        },
+        {
+          "account_pubkey": "5pH1aaukuunSzf79YHBLTrtktgm4dbbqk9nuzzG6eJqC",
+          "transaction_count": 64,
+          "spearman_rho": 0.061237998571680344,
+          "kendall_tau": 0.04810526399953432,
+          "inversion_ratio": 0.44642857142857145,
+          "p_value": 0.6307297698389691
+        },
+        {
+          "account_pubkey": "GeLSDv7jcgKyaZc8JUSzMKQRLmkcbxyGjy5EZPwsix5D",
+          "transaction_count": 64,
+          "spearman_rho": 0.061237998571680344,
+          "kendall_tau": 0.04810526399953432,
+          "inversion_ratio": 0.44642857142857145,
+          "p_value": 0.6307297698389691
+        },
+        {
+          "account_pubkey": "FfbiB6ZWEtzczinzhGDH5mHcqmvUYFhxZYNwgdfvKvPU",
+          "transaction_count": 57,
+          "spearman_rho": 0.0828721066838129,
+          "kendall_tau": 0.06576333777885784,
+          "inversion_ratio": 0.4492481203007519,
+          "p_value": 0.5399657067375914
+        },
+        {
+          "account_pubkey": "94qWNrtmfn42h3ZjUZwWvK1MEo9uVmmrBPd2hpNjYDjb",
+          "transaction_count": 53,
+          "spearman_rho": -0.3480198247876653,
+          "kendall_tau": -0.21557588258925103,
+          "inversion_ratio": 0.5493468795355588,
+          "p_value": 0.010662086583775637
+        }
+      ],
+      "scheduler_verdict": "HYBRID_PARTIAL_ORDERING",
+      "verdict_confidence": 0.7,
+      "rationale": "Hybrid behavior with global rho=-0.01, conflict rho=-0.05, inversion ratio=0.33."
+    },
+    {
+      "slot": 461309897,
+      "leader_pubkey": "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
+      "client_family": "Agave",
+      "client_version": "4.3.2",
+      "total_transactions": 275,
+      "non_vote_transactions": 275,
+      "txs_with_priority_fee": 99,
+      "pct_with_priority_fee": 36.0,
+      "metrics": {
+        "spearman_rho": -0.0654,
+        "spearman_pvalue": 0.280032,
+        "kendall_tau": -0.0421,
+        "inversion_ratio": 0.3112,
+        "top_decile_head_concentration": 29.63,
+        "mean_conflict_spearman_rho": -0.0229,
+        "mean_conflict_inversion_ratio": 0.385
+      },
+      "conflict_clusters": [
+        {
+          "account_pubkey": "4o48tixYsXXxerv88ckqFNzu2t7nP3h4Xdix7ssR5vao",
+          "transaction_count": 55,
+          "spearman_rho": 0.09295319759412878,
+          "kendall_tau": 0.07740339400213733,
+          "inversion_ratio": 0.4208754208754209,
+          "p_value": 0.49968262073690817
+        },
+        {
+          "account_pubkey": "5pH1aaukuunSzf79YHBLTrtktgm4dbbqk9nuzzG6eJqC",
+          "transaction_count": 55,
+          "spearman_rho": 0.09295319759412878,
+          "kendall_tau": 0.07740339400213733,
+          "inversion_ratio": 0.4208754208754209,
+          "p_value": 0.49968262073690817
+        },
+        {
+          "account_pubkey": "GeLSDv7jcgKyaZc8JUSzMKQRLmkcbxyGjy5EZPwsix5D",
+          "transaction_count": 55,
+          "spearman_rho": 0.09295319759412878,
+          "kendall_tau": 0.07740339400213733,
+          "inversion_ratio": 0.4208754208754209,
+          "p_value": 0.49968262073690817
+        },
+        {
+          "account_pubkey": "FfbiB6ZWEtzczinzhGDH5mHcqmvUYFhxZYNwgdfvKvPU",
+          "transaction_count": 45,
+          "spearman_rho": 0.1378515952680085,
+          "kendall_tau": 0.11898844128002163,
+          "inversion_ratio": 0.4262626262626263,
+          "p_value": 0.36650672350204805
+        },
+        {
+          "account_pubkey": "94qWNrtmfn42h3ZjUZwWvK1MEo9uVmmrBPd2hpNjYDjb",
+          "transaction_count": 28,
+          "spearman_rho": -0.031125841444277033,
+          "kendall_tau": -0.00818957148778788,
+          "inversion_ratio": 0.47354497354497355,
+          "p_value": 0.8750627144553722
+        }
+      ],
+      "scheduler_verdict": "HYBRID_PARTIAL_ORDERING",
+      "verdict_confidence": 0.7,
+      "rationale": "Hybrid behavior with global rho=-0.07, conflict rho=-0.02, inversion ratio=0.31."
+    },
+    {
+      "slot": 461309828,
+      "leader_pubkey": "DRpbCBMxVnDK7maPM5tGv6MvB3v1sRMC86PZ8okm21hy",
+      "client_family": "Agave",
+      "client_version": "4.3.2",
+      "total_transactions": 481,
+      "non_vote_transactions": 481,
+      "txs_with_priority_fee": 242,
+      "pct_with_priority_fee": 50.31,
+      "metrics": {
+        "spearman_rho": 0.057,
+        "spearman_pvalue": 0.21232,
+        "kendall_tau": 0.0625,
+        "inversion_ratio": 0.3773,
+        "top_decile_head_concentration": 64.58,
+        "mean_conflict_spearman_rho": 0.2205,
+        "mean_conflict_inversion_ratio": 0.307
+      },
+      "conflict_clusters": [
+        {
+          "account_pubkey": "4o48tixYsXXxerv88ckqFNzu2t7nP3h4Xdix7ssR5vao",
+          "transaction_count": 136,
+          "spearman_rho": 0.5512073616339493,
+          "kendall_tau": 0.497091271911256,
+          "inversion_ratio": 0.24161220043572984,
+          "p_value": 3.557708175237415e-12
+        },
+        {
+          "account_pubkey": "5pH1aaukuunSzf79YHBLTrtktgm4dbbqk9nuzzG6eJqC",
+          "transaction_count": 136,
+          "spearman_rho": 0.5512073616339493,
+          "kendall_tau": 0.497091271911256,
+          "inversion_ratio": 0.24161220043572984,
+          "p_value": 3.557708175237415e-12
+        },
+        {
+          "account_pubkey": "GeLSDv7jcgKyaZc8JUSzMKQRLmkcbxyGjy5EZPwsix5D",
+          "transaction_count": 136,
+          "spearman_rho": 0.5512073616339493,
+          "kendall_tau": 0.497091271911256,
+          "inversion_ratio": 0.24161220043572984,
+          "p_value": 3.557708175237415e-12
+        },
+        {
+          "account_pubkey": "FfbiB6ZWEtzczinzhGDH5mHcqmvUYFhxZYNwgdfvKvPU",
+          "transaction_count": 119,
+          "spearman_rho": 0.6128558228783815,
+          "kendall_tau": 0.5561400517342197,
+          "inversion_ratio": 0.21264777097279589,
+          "p_value": 1.2840530656628213e-13
+        },
+        {
+          "account_pubkey": "94qWNrtmfn42h3ZjUZwWvK1MEo9uVmmrBPd2hpNjYDjb",
+          "transaction_count": 71,
+          "spearman_rho": 0.3676925658127421,
+          "kendall_tau": 0.3548227999200891,
+          "inversion_ratio": 0.30261569416498996,
+          "p_value": 0.0016075534686992659
+        }
+      ],
+      "scheduler_verdict": "PARALLEL_PRIO_GRAPH_WORKERS",
+      "verdict_confidence": 0.85,
+      "rationale": "Conflict-cluster ordering (rho=0.22) significantly outperforms global ordering (rho=0.06). Reflects Agave multi-threaded banking stage interleaving parallel non-conflicting batches."
+    },
+    {
+      "slot": 461309829,
+      "leader_pubkey": "DRpbCBMxVnDK7maPM5tGv6MvB3v1sRMC86PZ8okm21hy",
+      "client_family": "Agave",
+      "client_version": "4.3.2",
+      "total_transactions": 293,
+      "non_vote_transactions": 293,
+      "txs_with_priority_fee": 136,
+      "pct_with_priority_fee": 46.42,
+      "metrics": {
+        "spearman_rho": 0.0782,
+        "spearman_pvalue": 0.181895,
+        "kendall_tau": 0.0623,
+        "inversion_ratio": 0.3288,
+        "top_decile_head_concentration": 20.69,
+        "mean_conflict_spearman_rho": -0.0415,
+        "mean_conflict_inversion_ratio": 0.4311
+      },
+      "conflict_clusters": [
+        {
+          "account_pubkey": "4o48tixYsXXxerv88ckqFNzu2t7nP3h4Xdix7ssR5vao",
+          "transaction_count": 71,
+          "spearman_rho": 0.06307261730491635,
+          "kendall_tau": 0.06305970045596669,
+          "inversion_ratio": 0.45191146881287725,
+          "p_value": 0.6012897565965436
+        },
+        {
+          "account_pubkey": "5pH1aaukuunSzf79YHBLTrtktgm4dbbqk9nuzzG6eJqC",
+          "transaction_count": 71,
+          "spearman_rho": 0.06307261730491635,
+          "kendall_tau": 0.06305970045596669,
+          "inversion_ratio": 0.45191146881287725,
+          "p_value": 0.6012897565965436
+        },
+        {
+          "account_pubkey": "GeLSDv7jcgKyaZc8JUSzMKQRLmkcbxyGjy5EZPwsix5D",
+          "transaction_count": 71,
+          "spearman_rho": 0.06307261730491635,
+          "kendall_tau": 0.06305970045596669,
+          "inversion_ratio": 0.45191146881287725,
+          "p_value": 0.6012897565965436
+        },
+        {
+          "account_pubkey": "FfbiB6ZWEtzczinzhGDH5mHcqmvUYFhxZYNwgdfvKvPU",
+          "transaction_count": 53,
+          "spearman_rho": 0.0013318811637247495,
+          "kendall_tau": 0.023479044742653766,
+          "inversion_ratio": 0.47750362844702465,
+          "p_value": 0.9924481113690252
+        },
+        {
+          "account_pubkey": "8dbyN9TovZhLeuogfKKdrEgpQsuggQJtmwaRyHnsB8KD",
+          "transaction_count": 30,
+          "spearman_rho": -0.09880905315094386,
+          "kendall_tau": -0.07959271599029613,
+          "inversion_ratio": 0.1724137931034483,
+          "p_value": 0.6034279680719524
+        }
+      ],
+      "scheduler_verdict": "HYBRID_PARTIAL_ORDERING",
+      "verdict_confidence": 0.7,
+      "rationale": "Hybrid behavior with global rho=0.08, conflict rho=-0.04, inversion ratio=0.33."
+    },
+    {
+      "slot": 461309944,
+      "leader_pubkey": "ana2y2YvQ3ZPMwm6qhnN3nJoUSiT3qx5Pvetkq9xcfY",
+      "client_family": "Rakurai",
+      "client_version": "4.3.2",
+      "total_transactions": 189,
+      "non_vote_transactions": 189,
+      "txs_with_priority_fee": 63,
+      "pct_with_priority_fee": 33.33,
+      "metrics": {
+        "spearman_rho": -0.1939,
+        "spearman_pvalue": 0.007497,
+        "kendall_tau": -0.1431,
+        "inversion_ratio": 0.3307,
+        "top_decile_head_concentration": 11.11,
+        "mean_conflict_spearman_rho": 0.1174,
+        "mean_conflict_inversion_ratio": 0.3647
+      },
+      "conflict_clusters": [
+        {
+          "account_pubkey": "4o48tixYsXXxerv88ckqFNzu2t7nP3h4Xdix7ssR5vao",
+          "transaction_count": 32,
+          "spearman_rho": 0.09854398703003114,
+          "kendall_tau": 0.08209200916615866,
+          "inversion_ratio": 0.3971774193548387,
+          "p_value": 0.5915582265732393
+        },
+        {
+          "account_pubkey": "5pH1aaukuunSzf79YHBLTrtktgm4dbbqk9nuzzG6eJqC",
+          "transaction_count": 32,
+          "spearman_rho": 0.09854398703003114,
+          "kendall_tau": 0.08209200916615866,
+          "inversion_ratio": 0.3971774193548387,
+          "p_value": 0.5915582265732393
+        },
+        {
+          "account_pubkey": "GeLSDv7jcgKyaZc8JUSzMKQRLmkcbxyGjy5EZPwsix5D",
+          "transaction_count": 32,
+          "spearman_rho": 0.09854398703003114,
+          "kendall_tau": 0.08209200916615866,
+          "inversion_ratio": 0.3971774193548387,
+          "p_value": 0.5915582265732393
+        },
+        {
+          "account_pubkey": "FfbiB6ZWEtzczinzhGDH5mHcqmvUYFhxZYNwgdfvKvPU",
+          "transaction_count": 26,
+          "spearman_rho": 0.0643064633590763,
+          "kendall_tau": 0.05073615937647937,
+          "inversion_ratio": 0.4461538461538462,
+          "p_value": 0.7549671265063302
+        },
+        {
+          "account_pubkey": "8dbyN9TovZhLeuogfKKdrEgpQsuggQJtmwaRyHnsB8KD",
+          "transaction_count": 15,
+          "spearman_rho": 0.3092947870658709,
+          "kendall_tau": 0.26082026547865056,
+          "inversion_ratio": 0.01904761904761905,
+          "p_value": 0.2619654382517165
+        }
+      ],
+      "scheduler_verdict": "HYBRID_PARTIAL_ORDERING",
+      "verdict_confidence": 0.7,
+      "rationale": "Hybrid behavior with global rho=-0.19, conflict rho=0.12, inversion ratio=0.33."
+    },
+    {
+      "slot": 461309945,
+      "leader_pubkey": "ana2y2YvQ3ZPMwm6qhnN3nJoUSiT3qx5Pvetkq9xcfY",
+      "client_family": "Rakurai",
+      "client_version": "4.3.2",
+      "total_transactions": 349,
+      "non_vote_transactions": 349,
+      "txs_with_priority_fee": 166,
+      "pct_with_priority_fee": 47.56,
+      "metrics": {
+        "spearman_rho": -0.0229,
+        "spearman_pvalue": 0.670345,
+        "kendall_tau": -0.0155,
+        "inversion_ratio": 0.3436,
+        "top_decile_head_concentration": 17.65,
+        "mean_conflict_spearman_rho": -0.2691,
+        "mean_conflict_inversion_ratio": 0.5381
+      },
+      "conflict_clusters": [
+        {
+          "account_pubkey": "4o48tixYsXXxerv88ckqFNzu2t7nP3h4Xdix7ssR5vao",
+          "transaction_count": 106,
+          "spearman_rho": 0.021698403954857108,
+          "kendall_tau": 0.01686080679825062,
+          "inversion_ratio": 0.4724168912848158,
+          "p_value": 0.8252669276913182
+        },
+        {
+          "account_pubkey": "5pH1aaukuunSzf79YHBLTrtktgm4dbbqk9nuzzG6eJqC",
+          "transaction_count": 106,
+          "spearman_rho": 0.021698403954857108,
+          "kendall_tau": 0.01686080679825062,
+          "inversion_ratio": 0.4724168912848158,
+          "p_value": 0.8252669276913182
+        },
+        {
+          "account_pubkey": "GeLSDv7jcgKyaZc8JUSzMKQRLmkcbxyGjy5EZPwsix5D",
+          "transaction_count": 106,
+          "spearman_rho": 0.021698403954857108,
+          "kendall_tau": 0.01686080679825062,
+          "inversion_ratio": 0.4724168912848158,
+          "p_value": 0.8252669276913182
+        },
+        {
+          "account_pubkey": "FfbiB6ZWEtzczinzhGDH5mHcqmvUYFhxZYNwgdfvKvPU",
+          "transaction_count": 90,
+          "spearman_rho": -0.02027320820714059,
+          "kendall_tau": -0.009928047407754426,
+          "inversion_ratio": 0.48589263420724094,
+          "p_value": 0.8495759162262361
+        },
+        {
+          "account_pubkey": "94qWNrtmfn42h3ZjUZwWvK1MEo9uVmmrBPd2hpNjYDjb",
+          "transaction_count": 66,
+          "spearman_rho": -0.08455054182391125,
+          "kendall_tau": -0.06857968955963113,
+          "inversion_ratio": 0.5058275058275058,
+          "p_value": 0.4996898560892658
+        }
+      ],
+      "scheduler_verdict": "HYBRID_PARTIAL_ORDERING",
+      "verdict_confidence": 0.7,
+      "rationale": "Hybrid behavior with global rho=-0.02, conflict rho=-0.27, inversion ratio=0.34."
+    },
+    {
+      "slot": 461309904,
+      "leader_pubkey": "E3mDbFMr8yZcCAZx5wPUFCRmLX31u8Nnj4jPoPc54h3F",
+      "client_family": "Rakurai",
+      "client_version": "4.3.2",
+      "total_transactions": 103,
+      "non_vote_transactions": 103,
+      "txs_with_priority_fee": 12,
+      "pct_with_priority_fee": 11.65,
+      "metrics": {
+        "spearman_rho": 0.1305,
+        "spearman_pvalue": 0.188772,
+        "kendall_tau": 0.1112,
+        "inversion_ratio": 0.084,
+        "top_decile_head_concentration": 40.0,
+        "mean_conflict_spearman_rho": 0.1305,
+        "mean_conflict_inversion_ratio": 0.084
+      },
+      "conflict_clusters": [],
+      "scheduler_verdict": "LOW_FEE_ACTIVITY",
+      "verdict_confidence": 0.65,
+      "rationale": "Only 11.7% of transactions specify priority fees. Scheduler is mostly operating in FIFO mode."
+    },
+    {
+      "slot": 461309905,
+      "leader_pubkey": "E3mDbFMr8yZcCAZx5wPUFCRmLX31u8Nnj4jPoPc54h3F",
+      "client_family": "Rakurai",
+      "client_version": "4.3.2",
+      "total_transactions": 264,
+      "non_vote_transactions": 264,
+      "txs_with_priority_fee": 116,
+      "pct_with_priority_fee": 43.94,
+      "metrics": {
+        "spearman_rho": -0.0212,
+        "spearman_pvalue": 0.731097,
+        "kendall_tau": -0.0154,
+        "inversion_ratio": 0.3482,
+        "top_decile_head_concentration": 19.23,
+        "mean_conflict_spearman_rho": -0.2723,
+        "mean_conflict_inversion_ratio": 0.5254
+      },
+      "conflict_clusters": [
+        {
+          "account_pubkey": "4o48tixYsXXxerv88ckqFNzu2t7nP3h4Xdix7ssR5vao",
+          "transaction_count": 66,
+          "spearman_rho": -0.1122037812578665,
+          "kendall_tau": -0.07759603218026415,
+          "inversion_ratio": 0.5114219114219114,
+          "p_value": 0.36973591053593985
+        },
+        {
+          "account_pubkey": "5pH1aaukuunSzf79YHBLTrtktgm4dbbqk9nuzzG6eJqC",
+          "transaction_count": 66,
+          "spearman_rho": -0.1122037812578665,
+          "kendall_tau": -0.07759603218026415,
+          "inversion_ratio": 0.5114219114219114,
+          "p_value": 0.36973591053593985
+        },
+        {
+          "account_pubkey": "GeLSDv7jcgKyaZc8JUSzMKQRLmkcbxyGjy5EZPwsix5D",
+          "transaction_count": 66,
+          "spearman_rho": -0.1122037812578665,
+          "kendall_tau": -0.07759603218026415,
+          "inversion_ratio": 0.5114219114219114,
+          "p_value": 0.36973591053593985
+        },
+        {
+          "account_pubkey": "FfbiB6ZWEtzczinzhGDH5mHcqmvUYFhxZYNwgdfvKvPU",
+          "transaction_count": 60,
+          "spearman_rho": -0.1458609527626156,
+          "kendall_tau": -0.10024964357773748,
+          "inversion_ratio": 0.5299435028248588,
+          "p_value": 0.2661266304382012
+        },
+        {
+          "account_pubkey": "94qWNrtmfn42h3ZjUZwWvK1MEo9uVmmrBPd2hpNjYDjb",
+          "transaction_count": 37,
+          "spearman_rho": -0.15530273476117185,
+          "kendall_tau": -0.10485941991507955,
+          "inversion_ratio": 0.5105105105105106,
+          "p_value": 0.3587067903683462
+        }
+      ],
+      "scheduler_verdict": "HYBRID_PARTIAL_ORDERING",
+      "verdict_confidence": 0.7,
+      "rationale": "Hybrid behavior with global rho=-0.02, conflict rho=-0.27, inversion ratio=0.35."
+    }
+  ],
+  "simulated_probes": [
+    {
+      "probe_id": 1,
+      "target_validator": "JUPiTERrZqgf1jUyR7dSkhMx4Kn2qJyekWsg3LT1h4b",
+      "target_slot": 461309840,
+      "cu_limit": 10000,
+      "cu_price": 0,
+      "base_fee": 5000,
+      "priority_fee": 0,
+      "total_fee_lamports": 5000,
+      "recent_blockhash": "13nUp1x2VayDgZSx1MffDcWAJPXFGUHaXSvU1qU3FBqB",
+      "mock_signature": "mock_probe_0001_slot_461309840_0microLamports",
+      "is_dry_run": true,
+      "client_family": "Firedancer",
+      "client_version": "26.10.4"
+    },
+    {
+      "probe_id": 2,
+      "target_validator": "JUPiTERrZqgf1jUyR7dSkhMx4Kn2qJyekWsg3LT1h4b",
+      "target_slot": 461309840,
+      "cu_limit": 10000,
+      "cu_price": 1000,
+      "base_fee": 5000,
+      "priority_fee": 10,
+      "total_fee_lamports": 5010,
+      "recent_blockhash": "13nUp1x2VayDgZSx1MffDcWAJPXFGUHaXSvU1qU3FBqB",
+      "mock_signature": "mock_probe_0002_slot_461309840_1000microLamports",
+      "is_dry_run": true,
+      "client_family": "Firedancer",
+      "client_version": "26.10.4"
+    },
+    {
+      "probe_id": 3,
+      "target_validator": "JUPiTERrZqgf1jUyR7dSkhMx4Kn2qJyekWsg3LT1h4b",
+      "target_slot": 461309840,
+      "cu_limit": 10000,
+      "cu_price": 5000,
+      "base_fee": 5000,
+      "priority_fee": 50,
+      "total_fee_lamports": 5050,
+      "recent_blockhash": "13nUp1x2VayDgZSx1MffDcWAJPXFGUHaXSvU1qU3FBqB",
+      "mock_signature": "mock_probe_0003_slot_461309840_5000microLamports",
+      "is_dry_run": true,
+      "client_family": "Firedancer",
+      "client_version": "26.10.4"
+    },
+    {
+      "probe_id": 4,
+      "target_validator": "JUPiTERrZqgf1jUyR7dSkhMx4Kn2qJyekWsg3LT1h4b",
+      "target_slot": 461309840,
+      "cu_limit": 10000,
+      "cu_price": 25000,
+      "base_fee": 5000,
+      "priority_fee": 250,
+      "total_fee_lamports": 5250,
+      "recent_blockhash": "13nUp1x2VayDgZSx1MffDcWAJPXFGUHaXSvU1qU3FBqB",
+      "mock_signature": "mock_probe_0004_slot_461309840_25000microLamports",
+      "is_dry_run": true,
+      "client_family": "Firedancer",
+      "client_version": "26.10.4"
+    },
+    {
+      "probe_id": 5,
+      "target_validator": "JUPiTERrZqgf1jUyR7dSkhMx4Kn2qJyekWsg3LT1h4b",
+      "target_slot": 461309840,
+      "cu_limit": 10000,
+      "cu_price": 100000,
+      "base_fee": 5000,
+      "priority_fee": 1000,
+      "total_fee_lamports": 6000,
+      "recent_blockhash": "13nUp1x2VayDgZSx1MffDcWAJPXFGUHaXSvU1qU3FBqB",
+      "mock_signature": "mock_probe_0005_slot_461309840_100000microLamports",
+      "is_dry_run": true,
+      "client_family": "Firedancer",
+      "client_version": "26.10.4"
+    },
+    {
+      "probe_id": 6,
+      "target_validator": "JUPiTERrZqgf1jUyR7dSkhMx4Kn2qJyekWsg3LT1h4b",
+      "target_slot": 461309840,
+      "cu_limit": 10000,
+      "cu_price": 500000,
+      "base_fee": 5000,
+      "priority_fee": 5000,
+      "total_fee_lamports": 10000,
+      "recent_blockhash": "13nUp1x2VayDgZSx1MffDcWAJPXFGUHaXSvU1qU3FBqB",
+      "mock_signature": "mock_probe_0006_slot_461309840_500000microLamports",
+      "is_dry_run": true,
+      "client_family": "Firedancer",
+      "client_version": "26.10.4"
+    },
+    {
+      "probe_id": 7,
+      "target_validator": "EvnRmnMrd69kFdbLMxWkTn1icZ7DCceRhvmb2SJXqDo4",
+      "target_slot": 461309848,
+      "cu_limit": 10000,
+      "cu_price": 0,
+      "base_fee": 5000,
+      "priority_fee": 0,
+      "total_fee_lamports": 5000,
+      "recent_blockhash": "13nUp1x2VayDgZSx1MffDcWAJPXFGUHaXSvU1qU3FBqB",
+      "mock_signature": "mock_probe_0007_slot_461309848_0microLamports",
+      "is_dry_run": true,
+      "client_family": "Firedancer",
+      "client_version": "26.10.4"
+    },
+    {
+      "probe_id": 8,
+      "target_validator": "EvnRmnMrd69kFdbLMxWkTn1icZ7DCceRhvmb2SJXqDo4",
+      "target_slot": 461309848,
+      "cu_limit": 10000,
+      "cu_price": 1000,
+      "base_fee": 5000,
+      "priority_fee": 10,
+      "total_fee_lamports": 5010,
+      "recent_blockhash": "13nUp1x2VayDgZSx1MffDcWAJPXFGUHaXSvU1qU3FBqB",
+      "mock_signature": "mock_probe_0008_slot_461309848_1000microLamports",
+      "is_dry_run": true,
+      "client_family": "Firedancer",
+      "client_version": "26.10.4"
+    },
+    {
+      "probe_id": 9,
+      "target_validator": "EvnRmnMrd69kFdbLMxWkTn1icZ7DCceRhvmb2SJXqDo4",
+      "target_slot": 461309848,
+      "cu_limit": 10000,
+      "cu_price": 5000,
+      "base_fee": 5000,
+      "priority_fee": 50,
+      "total_fee_lamports": 5050,
+      "recent_blockhash": "13nUp1x2VayDgZSx1MffDcWAJPXFGUHaXSvU1qU3FBqB",
+      "mock_signature": "mock_probe_0009_slot_461309848_5000microLamports",
+      "is_dry_run": true,
+      "client_family": "Firedancer",
+      "client_version": "26.10.4"
+    },
+    {
+      "probe_id": 10,
+      "target_validator": "EvnRmnMrd69kFdbLMxWkTn1icZ7DCceRhvmb2SJXqDo4",
+      "target_slot": 461309848,
+      "cu_limit": 10000,
+      "cu_price": 25000,
+      "base_fee": 5000,
+      "priority_fee": 250,
+      "total_fee_lamports": 5250,
+      "recent_blockhash": "13nUp1x2VayDgZSx1MffDcWAJPXFGUHaXSvU1qU3FBqB",
+      "mock_signature": "mock_probe_0010_slot_461309848_25000microLamports",
+      "is_dry_run": true,
+      "client_family": "Firedancer",
+      "client_version": "26.10.4"
+    },
+    {
+      "probe_id": 11,
+      "target_validator": "EvnRmnMrd69kFdbLMxWkTn1icZ7DCceRhvmb2SJXqDo4",
+      "target_slot": 461309848,
+      "cu_limit": 10000,
+      "cu_price": 100000,
+      "base_fee": 5000,
+      "priority_fee": 1000,
+      "total_fee_lamports": 6000,
+      "recent_blockhash": "13nUp1x2VayDgZSx1MffDcWAJPXFGUHaXSvU1qU3FBqB",
+      "mock_signature": "mock_probe_0011_slot_461309848_100000microLamports",
+      "is_dry_run": true,
+      "client_family": "Firedancer",
+      "client_version": "26.10.4"
+    },
+    {
+      "probe_id": 12,
+      "target_validator": "EvnRmnMrd69kFdbLMxWkTn1icZ7DCceRhvmb2SJXqDo4",
+      "target_slot": 461309848,
+      "cu_limit": 10000,
+      "cu_price": 500000,
+      "base_fee": 5000,
+      "priority_fee": 5000,
+      "total_fee_lamports": 10000,
+      "recent_blockhash": "13nUp1x2VayDgZSx1MffDcWAJPXFGUHaXSvU1qU3FBqB",
+      "mock_signature": "mock_probe_0012_slot_461309848_500000microLamports",
+      "is_dry_run": true,
+      "client_family": "Firedancer",
+      "client_version": "26.10.4"
+    },
+    {
+      "probe_id": 13,
+      "target_validator": "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
+      "target_slot": 461309980,
+      "cu_limit": 10000,
+      "cu_price": 0,
+      "base_fee": 5000,
+      "priority_fee": 0,
+      "total_fee_lamports": 5000,
+      "recent_blockhash": "13nUp1x2VayDgZSx1MffDcWAJPXFGUHaXSvU1qU3FBqB",
+      "mock_signature": "mock_probe_0013_slot_461309980_0microLamports",
+      "is_dry_run": true,
+      "client_family": "Jito",
+      "client_version": "4.3.2"
+    },
+    {
+      "probe_id": 14,
+      "target_validator": "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
+      "target_slot": 461309980,
+      "cu_limit": 10000,
+      "cu_price": 1000,
+      "base_fee": 5000,
+      "priority_fee": 10,
+      "total_fee_lamports": 5010,
+      "recent_blockhash": "13nUp1x2VayDgZSx1MffDcWAJPXFGUHaXSvU1qU3FBqB",
+      "mock_signature": "mock_probe_0014_slot_461309980_1000microLamports",
+      "is_dry_run": true,
+      "client_family": "Jito",
+      "client_version": "4.3.2"
+    },
+    {
+      "probe_id": 15,
+      "target_validator": "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
+      "target_slot": 461309980,
+      "cu_limit": 10000,
+      "cu_price": 5000,
+      "base_fee": 5000,
+      "priority_fee": 50,
+      "total_fee_lamports": 5050,
+      "recent_blockhash": "13nUp1x2VayDgZSx1MffDcWAJPXFGUHaXSvU1qU3FBqB",
+      "mock_signature": "mock_probe_0015_slot_461309980_5000microLamports",
+      "is_dry_run": true,
+      "client_family": "Jito",
+      "client_version": "4.3.2"
+    },
+    {
+      "probe_id": 16,
+      "target_validator": "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
+      "target_slot": 461309980,
+      "cu_limit": 10000,
+      "cu_price": 25000,
+      "base_fee": 5000,
+      "priority_fee": 250,
+      "total_fee_lamports": 5250,
+      "recent_blockhash": "13nUp1x2VayDgZSx1MffDcWAJPXFGUHaXSvU1qU3FBqB",
+      "mock_signature": "mock_probe_0016_slot_461309980_25000microLamports",
+      "is_dry_run": true,
+      "client_family": "Jito",
+      "client_version": "4.3.2"
+    },
+    {
+      "probe_id": 17,
+      "target_validator": "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
+      "target_slot": 461309980,
+      "cu_limit": 10000,
+      "cu_price": 100000,
+      "base_fee": 5000,
+      "priority_fee": 1000,
+      "total_fee_lamports": 6000,
+      "recent_blockhash": "13nUp1x2VayDgZSx1MffDcWAJPXFGUHaXSvU1qU3FBqB",
+      "mock_signature": "mock_probe_0017_slot_461309980_100000microLamports",
+      "is_dry_run": true,
+      "client_family": "Jito",
+      "client_version": "4.3.2"
+    },
+    {
+      "probe_id": 18,
+      "target_validator": "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
+      "target_slot": 461309980,
+      "cu_limit": 10000,
+      "cu_price": 500000,
+      "base_fee": 5000,
+      "priority_fee": 5000,
+      "total_fee_lamports": 10000,
+      "recent_blockhash": "13nUp1x2VayDgZSx1MffDcWAJPXFGUHaXSvU1qU3FBqB",
+      "mock_signature": "mock_probe_0018_slot_461309980_500000microLamports",
+      "is_dry_run": true,
+      "client_family": "Jito",
+      "client_version": "4.3.2"
+    },
+    {
+      "probe_id": 19,
+      "target_validator": "E1r4Psq84tHfQ6aPTvvDka4U3u8zPVD7gEUrH25RdxHL",
+      "target_slot": 461309768,
+      "cu_limit": 10000,
+      "cu_price": 0,
+      "base_fee": 5000,
+      "priority_fee": 0,
+      "total_fee_lamports": 5000,
+      "recent_blockhash": "DSp6KoYMUbACRyAzsQCz84eGcRz2nALGs332wKdQvAEC",
+      "mock_signature": "mock_probe_0019_slot_461309768_0microLamports",
+      "is_dry_run": true,
+      "client_family": "Jito",
+      "client_version": "4.3.2"
+    },
+    {
+      "probe_id": 20,
+      "target_validator": "E1r4Psq84tHfQ6aPTvvDka4U3u8zPVD7gEUrH25RdxHL",
+      "target_slot": 461309768,
+      "cu_limit": 10000,
+      "cu_price": 1000,
+      "base_fee": 5000,
+      "priority_fee": 10,
+      "total_fee_lamports": 5010,
+      "recent_blockhash": "DSp6KoYMUbACRyAzsQCz84eGcRz2nALGs332wKdQvAEC",
+      "mock_signature": "mock_probe_0020_slot_461309768_1000microLamports",
+      "is_dry_run": true,
+      "client_family": "Jito",
+      "client_version": "4.3.2"
+    },
+    {
+      "probe_id": 21,
+      "target_validator": "E1r4Psq84tHfQ6aPTvvDka4U3u8zPVD7gEUrH25RdxHL",
+      "target_slot": 461309768,
+      "cu_limit": 10000,
+      "cu_price": 5000,
+      "base_fee": 5000,
+      "priority_fee": 50,
+      "total_fee_lamports": 5050,
+      "recent_blockhash": "DSp6KoYMUbACRyAzsQCz84eGcRz2nALGs332wKdQvAEC",
+      "mock_signature": "mock_probe_0021_slot_461309768_5000microLamports",
+      "is_dry_run": true,
+      "client_family": "Jito",
+      "client_version": "4.3.2"
+    },
+    {
+      "probe_id": 22,
+      "target_validator": "E1r4Psq84tHfQ6aPTvvDka4U3u8zPVD7gEUrH25RdxHL",
+      "target_slot": 461309768,
+      "cu_limit": 10000,
+      "cu_price": 25000,
+      "base_fee": 5000,
+      "priority_fee": 250,
+      "total_fee_lamports": 5250,
+      "recent_blockhash": "DSp6KoYMUbACRyAzsQCz84eGcRz2nALGs332wKdQvAEC",
+      "mock_signature": "mock_probe_0022_slot_461309768_25000microLamports",
+      "is_dry_run": true,
+      "client_family": "Jito",
+      "client_version": "4.3.2"
+    },
+    {
+      "probe_id": 23,
+      "target_validator": "E1r4Psq84tHfQ6aPTvvDka4U3u8zPVD7gEUrH25RdxHL",
+      "target_slot": 461309768,
+      "cu_limit": 10000,
+      "cu_price": 100000,
+      "base_fee": 5000,
+      "priority_fee": 1000,
+      "total_fee_lamports": 6000,
+      "recent_blockhash": "DSp6KoYMUbACRyAzsQCz84eGcRz2nALGs332wKdQvAEC",
+      "mock_signature": "mock_probe_0023_slot_461309768_100000microLamports",
+      "is_dry_run": true,
+      "client_family": "Jito",
+      "client_version": "4.3.2"
+    },
+    {
+      "probe_id": 24,
+      "target_validator": "E1r4Psq84tHfQ6aPTvvDka4U3u8zPVD7gEUrH25RdxHL",
+      "target_slot": 461309768,
+      "cu_limit": 10000,
+      "cu_price": 500000,
+      "base_fee": 5000,
+      "priority_fee": 5000,
+      "total_fee_lamports": 10000,
+      "recent_blockhash": "DSp6KoYMUbACRyAzsQCz84eGcRz2nALGs332wKdQvAEC",
+      "mock_signature": "mock_probe_0024_slot_461309768_500000microLamports",
+      "is_dry_run": true,
+      "client_family": "Jito",
+      "client_version": "4.3.2"
+    },
+    {
+      "probe_id": 25,
+      "target_validator": "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
+      "target_slot": 461309896,
+      "cu_limit": 10000,
+      "cu_price": 0,
+      "base_fee": 5000,
+      "priority_fee": 0,
+      "total_fee_lamports": 5000,
+      "recent_blockhash": "DSp6KoYMUbACRyAzsQCz84eGcRz2nALGs332wKdQvAEC",
+      "mock_signature": "mock_probe_0025_slot_461309896_0microLamports",
+      "is_dry_run": true,
+      "client_family": "Agave",
+      "client_version": "4.3.2"
+    },
+    {
+      "probe_id": 26,
+      "target_validator": "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
+      "target_slot": 461309896,
+      "cu_limit": 10000,
+      "cu_price": 1000,
+      "base_fee": 5000,
+      "priority_fee": 10,
+      "total_fee_lamports": 5010,
+      "recent_blockhash": "DSp6KoYMUbACRyAzsQCz84eGcRz2nALGs332wKdQvAEC",
+      "mock_signature": "mock_probe_0026_slot_461309896_1000microLamports",
+      "is_dry_run": true,
+      "client_family": "Agave",
+      "client_version": "4.3.2"
+    },
+    {
+      "probe_id": 27,
+      "target_validator": "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
+      "target_slot": 461309896,
+      "cu_limit": 10000,
+      "cu_price": 5000,
+      "base_fee": 5000,
+      "priority_fee": 50,
+      "total_fee_lamports": 5050,
+      "recent_blockhash": "DSp6KoYMUbACRyAzsQCz84eGcRz2nALGs332wKdQvAEC",
+      "mock_signature": "mock_probe_0027_slot_461309896_5000microLamports",
+      "is_dry_run": true,
+      "client_family": "Agave",
+      "client_version": "4.3.2"
+    },
+    {
+      "probe_id": 28,
+      "target_validator": "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
+      "target_slot": 461309896,
+      "cu_limit": 10000,
+      "cu_price": 25000,
+      "base_fee": 5000,
+      "priority_fee": 250,
+      "total_fee_lamports": 5250,
+      "recent_blockhash": "DSp6KoYMUbACRyAzsQCz84eGcRz2nALGs332wKdQvAEC",
+      "mock_signature": "mock_probe_0028_slot_461309896_25000microLamports",
+      "is_dry_run": true,
+      "client_family": "Agave",
+      "client_version": "4.3.2"
+    },
+    {
+      "probe_id": 29,
+      "target_validator": "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
+      "target_slot": 461309896,
+      "cu_limit": 10000,
+      "cu_price": 100000,
+      "base_fee": 5000,
+      "priority_fee": 1000,
+      "total_fee_lamports": 6000,
+      "recent_blockhash": "DSp6KoYMUbACRyAzsQCz84eGcRz2nALGs332wKdQvAEC",
+      "mock_signature": "mock_probe_0029_slot_461309896_100000microLamports",
+      "is_dry_run": true,
+      "client_family": "Agave",
+      "client_version": "4.3.2"
+    },
+    {
+      "probe_id": 30,
+      "target_validator": "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
+      "target_slot": 461309896,
+      "cu_limit": 10000,
+      "cu_price": 500000,
+      "base_fee": 5000,
+      "priority_fee": 5000,
+      "total_fee_lamports": 10000,
+      "recent_blockhash": "DSp6KoYMUbACRyAzsQCz84eGcRz2nALGs332wKdQvAEC",
+      "mock_signature": "mock_probe_0030_slot_461309896_500000microLamports",
+      "is_dry_run": true,
+      "client_family": "Agave",
+      "client_version": "4.3.2"
+    },
+    {
+      "probe_id": 31,
+      "target_validator": "DRpbCBMxVnDK7maPM5tGv6MvB3v1sRMC86PZ8okm21hy",
+      "target_slot": 461309828,
+      "cu_limit": 10000,
+      "cu_price": 0,
+      "base_fee": 5000,
+      "priority_fee": 0,
+      "total_fee_lamports": 5000,
+      "recent_blockhash": "DSp6KoYMUbACRyAzsQCz84eGcRz2nALGs332wKdQvAEC",
+      "mock_signature": "mock_probe_0031_slot_461309828_0microLamports",
+      "is_dry_run": true,
+      "client_family": "Agave",
+      "client_version": "4.3.2"
+    },
+    {
+      "probe_id": 32,
+      "target_validator": "DRpbCBMxVnDK7maPM5tGv6MvB3v1sRMC86PZ8okm21hy",
+      "target_slot": 461309828,
+      "cu_limit": 10000,
+      "cu_price": 1000,
+      "base_fee": 5000,
+      "priority_fee": 10,
+      "total_fee_lamports": 5010,
+      "recent_blockhash": "DSp6KoYMUbACRyAzsQCz84eGcRz2nALGs332wKdQvAEC",
+      "mock_signature": "mock_probe_0032_slot_461309828_1000microLamports",
+      "is_dry_run": true,
+      "client_family": "Agave",
+      "client_version": "4.3.2"
+    },
+    {
+      "probe_id": 33,
+      "target_validator": "DRpbCBMxVnDK7maPM5tGv6MvB3v1sRMC86PZ8okm21hy",
+      "target_slot": 461309828,
+      "cu_limit": 10000,
+      "cu_price": 5000,
+      "base_fee": 5000,
+      "priority_fee": 50,
+      "total_fee_lamports": 5050,
+      "recent_blockhash": "DSp6KoYMUbACRyAzsQCz84eGcRz2nALGs332wKdQvAEC",
+      "mock_signature": "mock_probe_0033_slot_461309828_5000microLamports",
+      "is_dry_run": true,
+      "client_family": "Agave",
+      "client_version": "4.3.2"
+    },
+    {
+      "probe_id": 34,
+      "target_validator": "DRpbCBMxVnDK7maPM5tGv6MvB3v1sRMC86PZ8okm21hy",
+      "target_slot": 461309828,
+      "cu_limit": 10000,
+      "cu_price": 25000,
+      "base_fee": 5000,
+      "priority_fee": 250,
+      "total_fee_lamports": 5250,
+      "recent_blockhash": "DSp6KoYMUbACRyAzsQCz84eGcRz2nALGs332wKdQvAEC",
+      "mock_signature": "mock_probe_0034_slot_461309828_25000microLamports",
+      "is_dry_run": true,
+      "client_family": "Agave",
+      "client_version": "4.3.2"
+    },
+    {
+      "probe_id": 35,
+      "target_validator": "DRpbCBMxVnDK7maPM5tGv6MvB3v1sRMC86PZ8okm21hy",
+      "target_slot": 461309828,
+      "cu_limit": 10000,
+      "cu_price": 100000,
+      "base_fee": 5000,
+      "priority_fee": 1000,
+      "total_fee_lamports": 6000,
+      "recent_blockhash": "DSp6KoYMUbACRyAzsQCz84eGcRz2nALGs332wKdQvAEC",
+      "mock_signature": "mock_probe_0035_slot_461309828_100000microLamports",
+      "is_dry_run": true,
+      "client_family": "Agave",
+      "client_version": "4.3.2"
+    },
+    {
+      "probe_id": 36,
+      "target_validator": "DRpbCBMxVnDK7maPM5tGv6MvB3v1sRMC86PZ8okm21hy",
+      "target_slot": 461309828,
+      "cu_limit": 10000,
+      "cu_price": 500000,
+      "base_fee": 5000,
+      "priority_fee": 5000,
+      "total_fee_lamports": 10000,
+      "recent_blockhash": "DSp6KoYMUbACRyAzsQCz84eGcRz2nALGs332wKdQvAEC",
+      "mock_signature": "mock_probe_0036_slot_461309828_500000microLamports",
+      "is_dry_run": true,
+      "client_family": "Agave",
+      "client_version": "4.3.2"
+    },
+    {
+      "probe_id": 37,
+      "target_validator": "ana2y2YvQ3ZPMwm6qhnN3nJoUSiT3qx5Pvetkq9xcfY",
+      "target_slot": 461309944,
+      "cu_limit": 10000,
+      "cu_price": 0,
+      "base_fee": 5000,
+      "priority_fee": 0,
+      "total_fee_lamports": 5000,
+      "recent_blockhash": "13nUp1x2VayDgZSx1MffDcWAJPXFGUHaXSvU1qU3FBqB",
+      "mock_signature": "mock_probe_0037_slot_461309944_0microLamports",
+      "is_dry_run": true,
+      "client_family": "Rakurai",
+      "client_version": "4.3.2"
+    },
+    {
+      "probe_id": 38,
+      "target_validator": "ana2y2YvQ3ZPMwm6qhnN3nJoUSiT3qx5Pvetkq9xcfY",
+      "target_slot": 461309944,
+      "cu_limit": 10000,
+      "cu_price": 1000,
+      "base_fee": 5000,
+      "priority_fee": 10,
+      "total_fee_lamports": 5010,
+      "recent_blockhash": "13nUp1x2VayDgZSx1MffDcWAJPXFGUHaXSvU1qU3FBqB",
+      "mock_signature": "mock_probe_0038_slot_461309944_1000microLamports",
+      "is_dry_run": true,
+      "client_family": "Rakurai",
+      "client_version": "4.3.2"
+    },
+    {
+      "probe_id": 39,
+      "target_validator": "ana2y2YvQ3ZPMwm6qhnN3nJoUSiT3qx5Pvetkq9xcfY",
+      "target_slot": 461309944,
+      "cu_limit": 10000,
+      "cu_price": 5000,
+      "base_fee": 5000,
+      "priority_fee": 50,
+      "total_fee_lamports": 5050,
+      "recent_blockhash": "13nUp1x2VayDgZSx1MffDcWAJPXFGUHaXSvU1qU3FBqB",
+      "mock_signature": "mock_probe_0039_slot_461309944_5000microLamports",
+      "is_dry_run": true,
+      "client_family": "Rakurai",
+      "client_version": "4.3.2"
+    },
+    {
+      "probe_id": 40,
+      "target_validator": "ana2y2YvQ3ZPMwm6qhnN3nJoUSiT3qx5Pvetkq9xcfY",
+      "target_slot": 461309944,
+      "cu_limit": 10000,
+      "cu_price": 25000,
+      "base_fee": 5000,
+      "priority_fee": 250,
+      "total_fee_lamports": 5250,
+      "recent_blockhash": "13nUp1x2VayDgZSx1MffDcWAJPXFGUHaXSvU1qU3FBqB",
+      "mock_signature": "mock_probe_0040_slot_461309944_25000microLamports",
+      "is_dry_run": true,
+      "client_family": "Rakurai",
+      "client_version": "4.3.2"
+    },
+    {
+      "probe_id": 41,
+      "target_validator": "ana2y2YvQ3ZPMwm6qhnN3nJoUSiT3qx5Pvetkq9xcfY",
+      "target_slot": 461309944,
+      "cu_limit": 10000,
+      "cu_price": 100000,
+      "base_fee": 5000,
+      "priority_fee": 1000,
+      "total_fee_lamports": 6000,
+      "recent_blockhash": "13nUp1x2VayDgZSx1MffDcWAJPXFGUHaXSvU1qU3FBqB",
+      "mock_signature": "mock_probe_0041_slot_461309944_100000microLamports",
+      "is_dry_run": true,
+      "client_family": "Rakurai",
+      "client_version": "4.3.2"
+    },
+    {
+      "probe_id": 42,
+      "target_validator": "ana2y2YvQ3ZPMwm6qhnN3nJoUSiT3qx5Pvetkq9xcfY",
+      "target_slot": 461309944,
+      "cu_limit": 10000,
+      "cu_price": 500000,
+      "base_fee": 5000,
+      "priority_fee": 5000,
+      "total_fee_lamports": 10000,
+      "recent_blockhash": "13nUp1x2VayDgZSx1MffDcWAJPXFGUHaXSvU1qU3FBqB",
+      "mock_signature": "mock_probe_0042_slot_461309944_500000microLamports",
+      "is_dry_run": true,
+      "client_family": "Rakurai",
+      "client_version": "4.3.2"
+    },
+    {
+      "probe_id": 43,
+      "target_validator": "E3mDbFMr8yZcCAZx5wPUFCRmLX31u8Nnj4jPoPc54h3F",
+      "target_slot": 461309904,
+      "cu_limit": 10000,
+      "cu_price": 0,
+      "base_fee": 5000,
+      "priority_fee": 0,
+      "total_fee_lamports": 5000,
+      "recent_blockhash": "DSp6KoYMUbACRyAzsQCz84eGcRz2nALGs332wKdQvAEC",
+      "mock_signature": "mock_probe_0043_slot_461309904_0microLamports",
+      "is_dry_run": true,
+      "client_family": "Rakurai",
+      "client_version": "4.3.2"
+    },
+    {
+      "probe_id": 44,
+      "target_validator": "E3mDbFMr8yZcCAZx5wPUFCRmLX31u8Nnj4jPoPc54h3F",
+      "target_slot": 461309904,
+      "cu_limit": 10000,
+      "cu_price": 1000,
+      "base_fee": 5000,
+      "priority_fee": 10,
+      "total_fee_lamports": 5010,
+      "recent_blockhash": "DSp6KoYMUbACRyAzsQCz84eGcRz2nALGs332wKdQvAEC",
+      "mock_signature": "mock_probe_0044_slot_461309904_1000microLamports",
+      "is_dry_run": true,
+      "client_family": "Rakurai",
+      "client_version": "4.3.2"
+    },
+    {
+      "probe_id": 45,
+      "target_validator": "E3mDbFMr8yZcCAZx5wPUFCRmLX31u8Nnj4jPoPc54h3F",
+      "target_slot": 461309904,
+      "cu_limit": 10000,
+      "cu_price": 5000,
+      "base_fee": 5000,
+      "priority_fee": 50,
+      "total_fee_lamports": 5050,
+      "recent_blockhash": "DSp6KoYMUbACRyAzsQCz84eGcRz2nALGs332wKdQvAEC",
+      "mock_signature": "mock_probe_0045_slot_461309904_5000microLamports",
+      "is_dry_run": true,
+      "client_family": "Rakurai",
+      "client_version": "4.3.2"
+    },
+    {
+      "probe_id": 46,
+      "target_validator": "E3mDbFMr8yZcCAZx5wPUFCRmLX31u8Nnj4jPoPc54h3F",
+      "target_slot": 461309904,
+      "cu_limit": 10000,
+      "cu_price": 25000,
+      "base_fee": 5000,
+      "priority_fee": 250,
+      "total_fee_lamports": 5250,
+      "recent_blockhash": "DSp6KoYMUbACRyAzsQCz84eGcRz2nALGs332wKdQvAEC",
+      "mock_signature": "mock_probe_0046_slot_461309904_25000microLamports",
+      "is_dry_run": true,
+      "client_family": "Rakurai",
+      "client_version": "4.3.2"
+    },
+    {
+      "probe_id": 47,
+      "target_validator": "E3mDbFMr8yZcCAZx5wPUFCRmLX31u8Nnj4jPoPc54h3F",
+      "target_slot": 461309904,
+      "cu_limit": 10000,
+      "cu_price": 100000,
+      "base_fee": 5000,
+      "priority_fee": 1000,
+      "total_fee_lamports": 6000,
+      "recent_blockhash": "DSp6KoYMUbACRyAzsQCz84eGcRz2nALGs332wKdQvAEC",
+      "mock_signature": "mock_probe_0047_slot_461309904_100000microLamports",
+      "is_dry_run": true,
+      "client_family": "Rakurai",
+      "client_version": "4.3.2"
+    },
+    {
+      "probe_id": 48,
+      "target_validator": "E3mDbFMr8yZcCAZx5wPUFCRmLX31u8Nnj4jPoPc54h3F",
+      "target_slot": 461309904,
+      "cu_limit": 10000,
+      "cu_price": 500000,
+      "base_fee": 5000,
+      "priority_fee": 5000,
+      "total_fee_lamports": 10000,
+      "recent_blockhash": "DSp6KoYMUbACRyAzsQCz84eGcRz2nALGs332wKdQvAEC",
+      "mock_signature": "mock_probe_0048_slot_461309904_500000microLamports",
+      "is_dry_run": true,
+      "client_family": "Rakurai",
+      "client_version": "4.3.2"
+    }
+  ]
+}

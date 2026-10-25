@@ -1,0 +1,31 @@
+version: '3.8'
+
+services:
+  analyzer:
+    build:
+      context: .
+      dockerfile: Dockerfile.analyzer
+    container_name: solana-scheduler-analyzer
+    environment:
+      - SOLANA_RPC_URL=${SOLANA_RPC_URL:-https://api.mainnet-beta.solana.com}
+      - SOLANA_COMMITMENT=${SOLANA_COMMITMENT:-confirmed}
+      - MAX_SPEND_SOL=0.05
+      - DRY_RUN=true
+    volumes:
+      - ./data:/app/data
+      - ./analyzer:/app/analyzer
+      - ./tests:/app/tests
+    command: ["python", "scripts/run_batch_analysis.py"]
+
+  visualizer:
+    build:
+      context: .
+      dockerfile: Dockerfile.visualizer
+    container_name: solana-scheduler-visualizer
+    ports:
+      - "3000:80"
+    volumes:
+      - ./visualizer:/usr/share/nginx/html
+      - ./data:/usr/share/nginx/html/data:ro
+    depends_on:
+      - analyzer

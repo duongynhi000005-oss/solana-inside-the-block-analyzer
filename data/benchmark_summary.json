@@ -1,0 +1,309 @@
+{
+  "total_validators_profiled": 8,
+  "total_blocks_analyzed": 16,
+  "families_covered": [
+    "Agave",
+    "Firedancer",
+    "Jito",
+    "Rakurai"
+  ],
+  "spend_cap_enforced": {
+    "max_allowed_lamports": 50000000,
+    "max_allowed_sol": 0.05,
+    "total_spent_lamports": 290480,
+    "total_spent_sol": 0.00029048,
+    "remaining_sol": 0.04970952,
+    "dry_run": true,
+    "total_probes": 48,
+    "history": [
+      {
+        "amount_lamports": 5000,
+        "cumulative_spent": 5000,
+        "context": "Dry-run probe 1 for slot 461309840 (validator JUPiTERr)",
+        "dry_run": true
+      },
+      {
+        "amount_lamports": 5010,
+        "cumulative_spent": 10010,
+        "context": "Dry-run probe 2 for slot 461309840 (validator JUPiTERr)",
+        "dry_run": true
+      },
+      {
+        "amount_lamports": 5050,
+        "cumulative_spent": 15060,
+        "context": "Dry-run probe 3 for slot 461309840 (validator JUPiTERr)",
+        "dry_run": true
+      },
+      {
+        "amount_lamports": 5250,
+        "cumulative_spent": 20310,
+        "context": "Dry-run probe 4 for slot 461309840 (validator JUPiTERr)",
+        "dry_run": true
+      },
+      {
+        "amount_lamports": 6000,
+        "cumulative_spent": 26310,
+        "context": "Dry-run probe 5 for slot 461309840 (validator JUPiTERr)",
+        "dry_run": true
+      },
+      {
+        "amount_lamports": 10000,
+        "cumulative_spent": 36310,
+        "context": "Dry-run probe 6 for slot 461309840 (validator JUPiTERr)",
+        "dry_run": true
+      },
+      {
+        "amount_lamports": 5000,
+        "cumulative_spent": 41310,
+        "context": "Dry-run probe 7 for slot 461309848 (validator EvnRmnMr)",
+        "dry_run": true
+      },
+      {
+        "amount_lamports": 5010,
+        "cumulative_spent": 46320,
+        "context": "Dry-run probe 8 for slot 461309848 (validator EvnRmnMr)",
+        "dry_run": true
+      },
+      {
+        "amount_lamports": 5050,
+        "cumulative_spent": 51370,
+        "context": "Dry-run probe 9 for slot 461309848 (validator EvnRmnMr)",
+        "dry_run": true
+      },
+      {
+        "amount_lamports": 5250,
+        "cumulative_spent": 56620,
+        "context": "Dry-run probe 10 for slot 461309848 (validator EvnRmnMr)",
+        "dry_run": true
+      },
+      {
+        "amount_lamports": 6000,
+        "cumulative_spent": 62620,
+        "context": "Dry-run probe 11 for slot 461309848 (validator EvnRmnMr)",
+        "dry_run": true
+      },
+      {
+        "amount_lamports": 10000,
+        "cumulative_spent": 72620,
+        "context": "Dry-run probe 12 for slot 461309848 (validator EvnRmnMr)",
+        "dry_run": true
+      },
+      {
+        "amount_lamports": 5000,
+        "cumulative_spent": 77620,
+        "context": "Dry-run probe 13 for slot 461309980 (validator HEL1USMZ)",
+        "dry_run": true
+      },
+      {
+        "amount_lamports": 5010,
+        "cumulative_spent": 82630,
+        "context": "Dry-run probe 14 for slot 461309980 (validator HEL1USMZ)",
+        "dry_run": true
+      },
+      {
+        "amount_lamports": 5050,
+        "cumulative_spent": 87680,
+        "context": "Dry-run probe 15 for slot 461309980 (validator HEL1USMZ)",
+        "dry_run": true
+      },
+      {
+        "amount_lamports": 5250,
+        "cumulative_spent": 92930,
+        "context": "Dry-run probe 16 for slot 461309980 (validator HEL1USMZ)",
+        "dry_run": true
+      },
+      {
+        "amount_lamports": 6000,
+        "cumulative_spent": 98930,
+        "context": "Dry-run probe 17 for slot 461309980 (validator HEL1USMZ)",
+        "dry_run": true
+      },
+      {
+        "amount_lamports": 10000,
+        "cumulative_spent": 108930,
+        "context": "Dry-run probe 18 for slot 461309980 (validator HEL1USMZ)",
+        "dry_run": true
+      },
+      {
+        "amount_lamports": 5000,
+        "cumulative_spent": 113930,
+        "context": "Dry-run probe 19 for slot 461309768 (validator E1r4Psq8)",
+        "dry_run": true
+      },
+      {
+        "amount_lamports": 5010,
+        "cumulative_spent": 118940,
+        "context": "Dry-run probe 20 for slot 461309768 (validator E1r4Psq8)",
+        "dry_run": true
+      },
+      {
+        "amount_lamports": 5050,
+        "cumulative_spent": 123990,
+        "context": "Dry-run probe 21 for slot 461309768 (validator E1r4Psq8)",
+        "dry_run": true
+      },
+      {
+        "amount_lamports": 5250,
+        "cumulative_spent": 129240,
+        "context": "Dry-run probe 22 for slot 461309768 (validator E1r4Psq8)",
+        "dry_run": true
+      },
+      {
+        "amount_lamports": 6000,
+        "cumulative_spent": 135240,
+        "context": "Dry-run probe 23 for slot 461309768 (validator E1r4Psq8)",
+        "dry_run": true
+      },
+      {
+        "amount_lamports": 10000,
+        "cumulative_spent": 145240,
+        "context": "Dry-run probe 24 for slot 461309768 (validator E1r4Psq8)",
+        "dry_run": true
+      },
+      {
+        "amount_lamports": 5000,
+        "cumulative_spent": 150240,
+        "context": "Dry-run probe 25 for slot 461309896 (validator Fd7btgyS)",
+        "dry_run": true
+      },
+      {
+        "amount_lamports": 5010,
+        "cumulative_spent": 155250,
+        "context": "Dry-run probe 26 for slot 461309896 (validator Fd7btgyS)",
+        "dry_run": true
+      },
+      {
+        "amount_lamports": 5050,
+        "cumulative_spent": 160300,
+        "context": "Dry-run probe 27 for slot 461309896 (validator Fd7btgyS)",
+        "dry_run": true
+      },
+      {
+        "amount_lamports": 5250,
+        "cumulative_spent": 165550,
+        "context": "Dry-run probe 28 for slot 461309896 (validator Fd7btgyS)",
+        "dry_run": true
+      },
+      {
+        "amount_lamports": 6000,
+        "cumulative_spent": 171550,
+        "context": "Dry-run probe 29 for slot 461309896 (validator Fd7btgyS)",
+        "dry_run": true
+      },
+      {
+        "amount_lamports": 10000,
+        "cumulative_spent": 181550,
+        "context": "Dry-run probe 30 for slot 461309896 (validator Fd7btgyS)",
+        "dry_run": true
+      },
+      {
+        "amount_lamports": 5000,
+        "cumulative_spent": 186550,
+        "context": "Dry-run probe 31 for slot 461309828 (validator DRpbCBMx)",
+        "dry_run": true
+      },
+      {
+        "amount_lamports": 5010,
+        "cumulative_spent": 191560,
+        "context": "Dry-run probe 32 for slot 461309828 (validator DRpbCBMx)",
+        "dry_run": true
+      },
+      {
+        "amount_lamports": 5050,
+        "cumulative_spent": 196610,
+        "context": "Dry-run probe 33 for slot 461309828 (validator DRpbCBMx)",
+        "dry_run": true
+      },
+      {
+        "amount_lamports": 5250,
+        "cumulative_spent": 201860,
+        "context": "Dry-run probe 34 for slot 461309828 (validator DRpbCBMx)",
+        "dry_run": true
+      },
+      {
+        "amount_lamports": 6000,
+        "cumulative_spent": 207860,
+        "context": "Dry-run probe 35 for slot 461309828 (validator DRpbCBMx)",
+        "dry_run": true
+      },
+      {
+        "amount_lamports": 10000,
+        "cumulative_spent": 217860,
+        "context": "Dry-run probe 36 for slot 461309828 (validator DRpbCBMx)",
+        "dry_run": true
+      },
+      {
+        "amount_lamports": 5000,
+        "cumulative_spent": 222860,
+        "context": "Dry-run probe 37 for slot 461309944 (validator ana2y2Yv)",
+        "dry_run": true
+      },
+      {
+        "amount_lamports": 5010,
+        "cumulative_spent": 227870,
+        "context": "Dry-run probe 38 for slot 461309944 (validator ana2y2Yv)",
+        "dry_run": true
+      },
+      {
+        "amount_lamports": 5050,
+        "cumulative_spent": 232920,
+        "context": "Dry-run probe 39 for slot 461309944 (validator ana2y2Yv)",
+        "dry_run": true
+      },
+      {
+        "amount_lamports": 5250,
+        "cumulative_spent": 238170,
+        "context": "Dry-run probe 40 for slot 461309944 (validator ana2y2Yv)",
+        "dry_run": true
+      },
+      {
+        "amount_lamports": 6000,
+        "cumulative_spent": 244170,
+        "context": "Dry-run probe 41 for slot 461309944 (validator ana2y2Yv)",
+        "dry_run": true
+      },
+      {
+        "amount_lamports": 10000,
+        "cumulative_spent": 254170,
+        "context": "Dry-run probe 42 for slot 461309944 (validator ana2y2Yv)",
+        "dry_run": true
+      },
+      {
+        "amount_lamports": 5000,
+        "cumulative_spent": 259170,
+        "context": "Dry-run probe 43 for slot 461309904 (validator E3mDbFMr)",
+        "dry_run": true
+      },
+      {
+        "amount_lamports": 5010,
+        "cumulative_spent": 264180,
+        "context": "Dry-run probe 44 for slot 461309904 (validator E3mDbFMr)",
+        "dry_run": true
+      },
+      {
+        "amount_lamports": 5050,
+        "cumulative_spent": 269230,
+        "context": "Dry-run probe 45 for slot 461309904 (validator E3mDbFMr)",
+        "dry_run": true
+      },
+      {
+        "amount_lamports": 5250,
+        "cumulative_spent": 274480,
+        "context": "Dry-run probe 46 for slot 461309904 (validator E3mDbFMr)",
+        "dry_run": true
+      },
+      {
+        "amount_lamports": 6000,
+        "cumulative_spent": 280480,
+        "context": "Dry-run probe 47 for slot 461309904 (validator E3mDbFMr)",
+        "dry_run": true
+      },
+      {
+        "amount_lamports": 10000,
+        "cumulative_spent": 290480,
+        "context": "Dry-run probe 48 for slot 461309904 (validator E3mDbFMr)",
+        "dry_run": true
+      }
+    ]
+  }
+}
